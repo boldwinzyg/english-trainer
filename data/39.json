@@ -1,0 +1,5282 @@
+{
+  "三年级上册": [
+    {
+      "word": "pen",
+      "meaning": "钢笔",
+      "phonetic": "/pen/",
+      "emoji": "✒️",
+      "unit": "Unit 1 文具"
+    },
+    {
+      "word": "pencil",
+      "meaning": "铅笔",
+      "phonetic": "/ˈpensl/",
+      "emoji": "✏️",
+      "unit": "Unit 1 文具"
+    },
+    {
+      "word": "pencil-case",
+      "meaning": "铅笔盒",
+      "phonetic": "/ˈpensl keɪs/",
+      "emoji": "📦",
+      "unit": "Unit 1 文具"
+    },
+    {
+      "word": "ruler",
+      "meaning": "尺子",
+      "phonetic": "/ˈruːlə(r)/",
+      "emoji": "📏",
+      "unit": "Unit 1 文具"
+    },
+    {
+      "word": "eraser",
+      "meaning": "橡皮",
+      "phonetic": "/ɪˈreɪzə(r)/",
+      "emoji": "🧽",
+      "unit": "Unit 1 文具"
+    },
+    {
+      "word": "crayon",
+      "meaning": "蜡笔",
+      "phonetic": "/ˈkreɪɒn/",
+      "emoji": "🖍️",
+      "unit": "Unit 1 文具"
+    },
+    {
+      "word": "book",
+      "meaning": "书",
+      "phonetic": "/bʊk/",
+      "emoji": "📖",
+      "unit": "Unit 1 文具"
+    },
+    {
+      "word": "bag",
+      "meaning": "书包",
+      "phonetic": "/bæɡ/",
+      "emoji": "🎒",
+      "unit": "Unit 1 文具"
+    },
+    {
+      "word": "sharpener",
+      "meaning": "卷笔刀",
+      "phonetic": "/ˈʃɑːpnə(r)/",
+      "emoji": "🔧",
+      "unit": "Unit 1 文具"
+    },
+    {
+      "word": "school",
+      "meaning": "学校",
+      "phonetic": "/skuːl/",
+      "emoji": "🏫",
+      "unit": "Unit 1 文具"
+    },
+    {
+      "word": "head",
+      "meaning": "头",
+      "phonetic": "/hed/",
+      "emoji": "👤",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "face",
+      "meaning": "脸",
+      "phonetic": "/feɪs/",
+      "emoji": "😊",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "nose",
+      "meaning": "鼻子",
+      "phonetic": "/nəʊz/",
+      "emoji": "👃",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "mouth",
+      "meaning": "嘴",
+      "phonetic": "/maʊθ/",
+      "emoji": "👄",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "eye",
+      "meaning": "眼睛",
+      "phonetic": "/aɪ/",
+      "emoji": "👁️",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "ear",
+      "meaning": "耳朵",
+      "phonetic": "/ɪə(r)/",
+      "emoji": "👂",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "arm",
+      "meaning": "胳膊",
+      "phonetic": "/ɑːm/",
+      "emoji": "💪",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "finger",
+      "meaning": "手指",
+      "phonetic": "/ˈfɪŋɡə(r)/",
+      "emoji": "👆",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "leg",
+      "meaning": "腿",
+      "phonetic": "/leɡ/",
+      "emoji": "🦵",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "foot",
+      "meaning": "脚",
+      "phonetic": "/fʊt/",
+      "emoji": "🦶",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "body",
+      "meaning": "身体",
+      "phonetic": "/ˈbɒdi/",
+      "emoji": "🧍",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "white",
+      "meaning": "白色的",
+      "phonetic": "/waɪt/",
+      "emoji": "⬜",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "black",
+      "meaning": "黑色的",
+      "phonetic": "/blæk/",
+      "emoji": "⬛",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "orange",
+      "meaning": "橙色的",
+      "phonetic": "/ˈɒrɪndʒ/",
+      "emoji": "🟠",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "purple",
+      "meaning": "紫色的",
+      "phonetic": "/ˈpɜːpl/",
+      "emoji": "🟣",
+      "unit": "Unit 2 身体 & 颜色"
+    },
+    {
+      "word": "red",
+      "meaning": "红色的",
+      "phonetic": "/red/",
+      "emoji": "🔴",
+      "unit": "Unit 3 颜色"
+    },
+    {
+      "word": "yellow",
+      "meaning": "黄色的",
+      "phonetic": "/ˈjeləʊ/",
+      "emoji": "🟡",
+      "unit": "Unit 3 颜色"
+    },
+    {
+      "word": "green",
+      "meaning": "绿色的",
+      "phonetic": "/ɡriːn/",
+      "emoji": "🟢",
+      "unit": "Unit 3 颜色"
+    },
+    {
+      "word": "blue",
+      "meaning": "蓝色的",
+      "phonetic": "/bluː/",
+      "emoji": "🔵",
+      "unit": "Unit 3 颜色"
+    },
+    {
+      "word": "pink",
+      "meaning": "粉色的",
+      "phonetic": "/pɪŋk/",
+      "emoji": "🩷",
+      "unit": "Unit 3 颜色"
+    },
+    {
+      "word": "brown",
+      "meaning": "棕色的",
+      "phonetic": "/braʊn/",
+      "emoji": "🟫",
+      "unit": "Unit 3 颜色"
+    },
+    {
+      "word": "cat",
+      "meaning": "猫",
+      "phonetic": "/kæt/",
+      "emoji": "🐱",
+      "unit": "Unit 4 动物"
+    },
+    {
+      "word": "dog",
+      "meaning": "狗",
+      "phonetic": "/dɒɡ/",
+      "emoji": "🐶",
+      "unit": "Unit 4 动物"
+    },
+    {
+      "word": "monkey",
+      "meaning": "猴子",
+      "phonetic": "/ˈmʌŋki/",
+      "emoji": "🐒",
+      "unit": "Unit 4 动物"
+    },
+    {
+      "word": "panda",
+      "meaning": "熊猫",
+      "phonetic": "/ˈpændə/",
+      "emoji": "🐼",
+      "unit": "Unit 4 动物"
+    },
+    {
+      "word": "rabbit",
+      "meaning": "兔子",
+      "phonetic": "/ˈræbɪt/",
+      "emoji": "🐰",
+      "unit": "Unit 4 动物"
+    },
+    {
+      "word": "duck",
+      "meaning": "鸭子",
+      "phonetic": "/dʌk/",
+      "emoji": "🦆",
+      "unit": "Unit 4 动物"
+    },
+    {
+      "word": "pig",
+      "meaning": "猪",
+      "phonetic": "/pɪɡ/",
+      "emoji": "🐷",
+      "unit": "Unit 4 动物"
+    },
+    {
+      "word": "bird",
+      "meaning": "鸟",
+      "phonetic": "/bɜːd/",
+      "emoji": "🐦",
+      "unit": "Unit 4 动物"
+    },
+    {
+      "word": "bear",
+      "meaning": "熊",
+      "phonetic": "/beə(r)/",
+      "emoji": "🐻",
+      "unit": "Unit 4 动物"
+    },
+    {
+      "word": "elephant",
+      "meaning": "大象",
+      "phonetic": "/ˈelɪfənt/",
+      "emoji": "🐘",
+      "unit": "Unit 4 动物"
+    },
+    {
+      "word": "mouse",
+      "meaning": "老鼠",
+      "phonetic": "/maʊs/",
+      "emoji": "🐭",
+      "unit": "Unit 4 动物"
+    },
+    {
+      "word": "squirrel",
+      "meaning": "松鼠",
+      "phonetic": "/ˈskwɜːrəl/",
+      "emoji": "🐿️",
+      "unit": "Unit 4 动物"
+    },
+    {
+      "word": "cake",
+      "meaning": "蛋糕",
+      "phonetic": "/keɪk/",
+      "emoji": "🎂",
+      "unit": "Unit 5 食物饮料"
+    },
+    {
+      "word": "bread",
+      "meaning": "面包",
+      "phonetic": "/bred/",
+      "emoji": "🍞",
+      "unit": "Unit 5 食物饮料"
+    },
+    {
+      "word": "hot dog",
+      "meaning": "热狗",
+      "phonetic": "/hɒt dɒɡ/",
+      "emoji": "🌭",
+      "unit": "Unit 5 食物饮料"
+    },
+    {
+      "word": "hamburger",
+      "meaning": "汉堡包",
+      "phonetic": "/ˈhæmbɜːɡə(r)/",
+      "emoji": "🍔",
+      "unit": "Unit 5 食物饮料"
+    },
+    {
+      "word": "chicken",
+      "meaning": "鸡肉",
+      "phonetic": "/ˈtʃɪkɪn/",
+      "emoji": "🍗",
+      "unit": "Unit 5 食物饮料"
+    },
+    {
+      "word": "French fries",
+      "meaning": "炸薯条",
+      "phonetic": "/frentʃ fraɪz/",
+      "emoji": "🍟",
+      "unit": "Unit 5 食物饮料"
+    },
+    {
+      "word": "Coke",
+      "meaning": "可乐",
+      "phonetic": "/kəʊk/",
+      "emoji": "🥤",
+      "unit": "Unit 5 食物饮料"
+    },
+    {
+      "word": "juice",
+      "meaning": "果汁",
+      "phonetic": "/dʒuːs/",
+      "emoji": "🧃",
+      "unit": "Unit 5 食物饮料"
+    },
+    {
+      "word": "milk",
+      "meaning": "牛奶",
+      "phonetic": "/mɪlk/",
+      "emoji": "🥛",
+      "unit": "Unit 5 食物饮料"
+    },
+    {
+      "word": "water",
+      "meaning": "水",
+      "phonetic": "/ˈwɔːtə(r)/",
+      "emoji": "💧",
+      "unit": "Unit 5 食物饮料"
+    },
+    {
+      "word": "tea",
+      "meaning": "茶",
+      "phonetic": "/tiː/",
+      "emoji": "🍵",
+      "unit": "Unit 5 食物饮料"
+    },
+    {
+      "word": "coffee",
+      "meaning": "咖啡",
+      "phonetic": "/ˈkɒfi/",
+      "emoji": "☕",
+      "unit": "Unit 5 食物饮料"
+    },
+    {
+      "word": "one",
+      "meaning": "一",
+      "phonetic": "/wʌn/",
+      "emoji": "1️⃣",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "two",
+      "meaning": "二",
+      "phonetic": "/tuː/",
+      "emoji": "2️⃣",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "three",
+      "meaning": "三",
+      "phonetic": "/θriː/",
+      "emoji": "3️⃣",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "four",
+      "meaning": "四",
+      "phonetic": "/fɔː(r)/",
+      "emoji": "4️⃣",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "five",
+      "meaning": "五",
+      "phonetic": "/faɪv/",
+      "emoji": "5️⃣",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "six",
+      "meaning": "六",
+      "phonetic": "/sɪks/",
+      "emoji": "6️⃣",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "seven",
+      "meaning": "七",
+      "phonetic": "/ˈsevən/",
+      "emoji": "7️⃣",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "eight",
+      "meaning": "八",
+      "phonetic": "/eɪt/",
+      "emoji": "8️⃣",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "nine",
+      "meaning": "九",
+      "phonetic": "/naɪn/",
+      "emoji": "9️⃣",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "ten",
+      "meaning": "十",
+      "phonetic": "/ten/",
+      "emoji": "🔟",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "doll",
+      "meaning": "玩具娃娃",
+      "phonetic": "/dɒl/",
+      "emoji": "🧸",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "boat",
+      "meaning": "小船",
+      "phonetic": "/bəʊt/",
+      "emoji": "⛵",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "ball",
+      "meaning": "球",
+      "phonetic": "/bɔːl/",
+      "emoji": "⚽",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "kite",
+      "meaning": "风筝",
+      "phonetic": "/kaɪt/",
+      "emoji": "🪁",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "balloon",
+      "meaning": "气球",
+      "phonetic": "/bəˈluːn/",
+      "emoji": "🎈",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "car",
+      "meaning": "小汽车",
+      "phonetic": "/kɑː(r)/",
+      "emoji": "🚗",
+      "unit": "Unit 6 数字 & 玩具"
+    },
+    {
+      "word": "plane",
+      "meaning": "飞机",
+      "phonetic": "/pleɪn/",
+      "emoji": "🛩️",
+      "unit": "Unit 6 数字 & 玩具"
+    }
+  ],
+  "三年级下册": [
+    {
+      "word": "boy",
+      "meaning": "男孩",
+      "phonetic": "/bɔɪ/",
+      "emoji": "👦",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "girl",
+      "meaning": "女孩",
+      "phonetic": "/ɡɜːl/",
+      "emoji": "👧",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "teacher",
+      "meaning": "教师",
+      "phonetic": "/ˈtiːtʃə(r)/",
+      "emoji": "👩‍🏫",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "student",
+      "meaning": "学生",
+      "phonetic": "/ˈstjuːdnt/",
+      "emoji": "🎓",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "this",
+      "meaning": "这个",
+      "phonetic": "/ðɪs/",
+      "emoji": "👆",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "my",
+      "meaning": "我的",
+      "phonetic": "/maɪ/",
+      "emoji": "🙋",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "friend",
+      "meaning": "朋友",
+      "phonetic": "/frend/",
+      "emoji": "🤝",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "I'm",
+      "meaning": "我是",
+      "phonetic": "/aɪm/",
+      "emoji": "✋",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "nice",
+      "meaning": "好的",
+      "phonetic": "/naɪs/",
+      "emoji": "😊",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "good morning",
+      "meaning": "早上好",
+      "phonetic": "/ɡʊd ˈmɔːnɪŋ/",
+      "emoji": "🌅",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "good afternoon",
+      "meaning": "下午好",
+      "phonetic": "/ɡʊd ˌɑːftəˈnuːn/",
+      "emoji": "☀️",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "meet",
+      "meaning": "遇见",
+      "phonetic": "/miːt/",
+      "emoji": "🤝",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "goodbye",
+      "meaning": "再见",
+      "phonetic": "/ˈɡʊdbaɪ/",
+      "emoji": "👋",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "too",
+      "meaning": "也",
+      "phonetic": "/tuː/",
+      "emoji": "➕",
+      "unit": "Unit 1 人物与问候"
+    },
+    {
+      "word": "father",
+      "meaning": "父亲",
+      "phonetic": "/ˈfɑːðə(r)/",
+      "emoji": "👨",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "dad",
+      "meaning": "爸爸",
+      "phonetic": "/dæd/",
+      "emoji": "👨",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "mother",
+      "meaning": "母亲",
+      "phonetic": "/ˈmʌðə(r)/",
+      "emoji": "👩",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "mom",
+      "meaning": "妈妈",
+      "phonetic": "/mɒm/",
+      "emoji": "👩",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "man",
+      "meaning": "男人",
+      "phonetic": "/mæn/",
+      "emoji": "🧔",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "woman",
+      "meaning": "女人",
+      "phonetic": "/ˈwʊmən/",
+      "emoji": "👩",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "grandmother",
+      "meaning": "祖母",
+      "phonetic": "/ˈɡrænmʌðə(r)/",
+      "emoji": "👵",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "grandma",
+      "meaning": "奶奶",
+      "phonetic": "/ˈɡrænmɑː/",
+      "emoji": "👵",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "grandfather",
+      "meaning": "祖父",
+      "phonetic": "/ˈɡrænfɑːðə(r)/",
+      "emoji": "👴",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "grandpa",
+      "meaning": "爷爷",
+      "phonetic": "/ˈɡrænpɑː/",
+      "emoji": "👴",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "sister",
+      "meaning": "姐妹",
+      "phonetic": "/ˈsɪstə(r)/",
+      "emoji": "👧",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "brother",
+      "meaning": "兄弟",
+      "phonetic": "/ˈbrʌðə(r)/",
+      "emoji": "👦",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "let's",
+      "meaning": "让我们",
+      "phonetic": "/lets/",
+      "emoji": "🙋",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "great",
+      "meaning": "太好了",
+      "phonetic": "/ɡreɪt/",
+      "emoji": "🎉",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "really",
+      "meaning": "真的",
+      "phonetic": "/ˈriːəli/",
+      "emoji": "❗",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "and",
+      "meaning": "和",
+      "phonetic": "/ænd/",
+      "emoji": "➕",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "how",
+      "meaning": "怎么样",
+      "phonetic": "/haʊ/",
+      "emoji": "❓",
+      "unit": "Unit 2 家庭"
+    },
+    {
+      "word": "eleven",
+      "meaning": "十一",
+      "phonetic": "/ɪˈlevn/",
+      "emoji": "1️⃣1️⃣",
+      "unit": "Unit 3 数字11-20"
+    },
+    {
+      "word": "twelve",
+      "meaning": "十二",
+      "phonetic": "/twelv/",
+      "emoji": "1️⃣2️⃣",
+      "unit": "Unit 3 数字11-20"
+    },
+    {
+      "word": "thirteen",
+      "meaning": "十三",
+      "phonetic": "/ˌθɜːˈtiːn/",
+      "emoji": "1️⃣3️⃣",
+      "unit": "Unit 3 数字11-20"
+    },
+    {
+      "word": "fourteen",
+      "meaning": "十四",
+      "phonetic": "/ˌfɔːˈtiːn/",
+      "emoji": "1️⃣4️⃣",
+      "unit": "Unit 3 数字11-20"
+    },
+    {
+      "word": "fifteen",
+      "meaning": "十五",
+      "phonetic": "/ˌfɪfˈtiːn/",
+      "emoji": "1️⃣5️⃣",
+      "unit": "Unit 3 数字11-20"
+    },
+    {
+      "word": "sixteen",
+      "meaning": "十六",
+      "phonetic": "/ˌsɪksˈtiːn/",
+      "emoji": "1️⃣6️⃣",
+      "unit": "Unit 3 数字11-20"
+    },
+    {
+      "word": "seventeen",
+      "meaning": "十七",
+      "phonetic": "/ˌsevənˈtiːn/",
+      "emoji": "1️⃣7️⃣",
+      "unit": "Unit 3 数字11-20"
+    },
+    {
+      "word": "eighteen",
+      "meaning": "十八",
+      "phonetic": "/ˌeɪˈtiːn/",
+      "emoji": "1️⃣8️⃣",
+      "unit": "Unit 3 数字11-20"
+    },
+    {
+      "word": "nineteen",
+      "meaning": "十九",
+      "phonetic": "/ˌnaɪnˈtiːn/",
+      "emoji": "1️⃣9️⃣",
+      "unit": "Unit 3 数字11-20"
+    },
+    {
+      "word": "twenty",
+      "meaning": "二十",
+      "phonetic": "/ˈtwenti/",
+      "emoji": "2️⃣0️⃣",
+      "unit": "Unit 3 数字11-20"
+    },
+    {
+      "word": "how many",
+      "meaning": "多少",
+      "phonetic": "/haʊ ˈmeni/",
+      "emoji": "🔢",
+      "unit": "Unit 3 数字11-20"
+    },
+    {
+      "word": "can",
+      "meaning": "能够",
+      "phonetic": "/kæn/",
+      "emoji": "💪",
+      "unit": "Unit 3 数字11-20"
+    },
+    {
+      "word": "look at",
+      "meaning": "看",
+      "phonetic": "/lʊk æt/",
+      "emoji": "👀",
+      "unit": "Unit 3 数字11-20"
+    },
+    {
+      "word": "peach",
+      "meaning": "桃",
+      "phonetic": "/piːtʃ/",
+      "emoji": "🍑",
+      "unit": "Unit 4 水果"
+    },
+    {
+      "word": "pear",
+      "meaning": "梨",
+      "phonetic": "/peə(r)/",
+      "emoji": "🍐",
+      "unit": "Unit 4 水果"
+    },
+    {
+      "word": "orange",
+      "meaning": "橙子",
+      "phonetic": "/ˈɒrɪndʒ/",
+      "emoji": "🟠",
+      "unit": "Unit 4 水果"
+    },
+    {
+      "word": "watermelon",
+      "meaning": "西瓜",
+      "phonetic": "/ˈwɔːtəmelən/",
+      "emoji": "🍉",
+      "unit": "Unit 4 水果"
+    },
+    {
+      "word": "apple",
+      "meaning": "苹果",
+      "phonetic": "/ˈæpl/",
+      "emoji": "🍎",
+      "unit": "Unit 4 水果"
+    },
+    {
+      "word": "banana",
+      "meaning": "香蕉",
+      "phonetic": "/bəˈnɑːnə/",
+      "emoji": "🍌",
+      "unit": "Unit 4 水果"
+    },
+    {
+      "word": "strawberry",
+      "meaning": "草莓",
+      "phonetic": "/ˈstrɔːbəri/",
+      "emoji": "🍓",
+      "unit": "Unit 4 水果"
+    },
+    {
+      "word": "grape",
+      "meaning": "葡萄",
+      "phonetic": "/ɡreɪp/",
+      "emoji": "🍇",
+      "unit": "Unit 4 水果"
+    },
+    {
+      "word": "like",
+      "meaning": "喜欢",
+      "phonetic": "/laɪk/",
+      "emoji": "❤️",
+      "unit": "Unit 4 水果"
+    },
+    {
+      "word": "some",
+      "meaning": "一些",
+      "phonetic": "/sʌm/",
+      "emoji": "✋",
+      "unit": "Unit 4 水果"
+    },
+    {
+      "word": "thanks",
+      "meaning": "多谢",
+      "phonetic": "/θæŋks/",
+      "emoji": "🙏",
+      "unit": "Unit 4 水果"
+    },
+    {
+      "word": "bus",
+      "meaning": "公共汽车",
+      "phonetic": "/bʌs/",
+      "emoji": "🚌",
+      "unit": "Unit 5 交通 & 家具"
+    },
+    {
+      "word": "bike",
+      "meaning": "自行车",
+      "phonetic": "/baɪk/",
+      "emoji": "🚲",
+      "unit": "Unit 5 交通 & 家具"
+    },
+    {
+      "word": "taxi",
+      "meaning": "出租车",
+      "phonetic": "/ˈtæksi/",
+      "emoji": "🚕",
+      "unit": "Unit 5 交通 & 家具"
+    },
+    {
+      "word": "jeep",
+      "meaning": "吉普车",
+      "phonetic": "/dʒiːp/",
+      "emoji": "🚙",
+      "unit": "Unit 5 交通 & 家具"
+    },
+    {
+      "word": "desk",
+      "meaning": "课桌",
+      "phonetic": "/desk/",
+      "emoji": "🪑",
+      "unit": "Unit 5 交通 & 家具"
+    },
+    {
+      "word": "chair",
+      "meaning": "椅子",
+      "phonetic": "/tʃeə(r)/",
+      "emoji": "💺",
+      "unit": "Unit 5 交通 & 家具"
+    },
+    {
+      "word": "walkman",
+      "meaning": "随身听",
+      "phonetic": "/ˈwɔːkmæn/",
+      "emoji": "📻",
+      "unit": "Unit 5 交通 & 家具"
+    },
+    {
+      "word": "lamp",
+      "meaning": "台灯",
+      "phonetic": "/læmp/",
+      "emoji": "💡",
+      "unit": "Unit 5 交通 & 家具"
+    },
+    {
+      "word": "your",
+      "meaning": "你的",
+      "phonetic": "/jɔː(r)/",
+      "emoji": "👉",
+      "unit": "Unit 5 交通 & 家具"
+    },
+    {
+      "word": "zoo",
+      "meaning": "动物园",
+      "phonetic": "/zuː/",
+      "emoji": "🦁",
+      "unit": "Unit 5 交通 & 家具"
+    },
+    {
+      "word": "small",
+      "meaning": "小的",
+      "phonetic": "/smɔːl/",
+      "emoji": "🤏",
+      "unit": "Unit 6 形容词 & 动物"
+    },
+    {
+      "word": "big",
+      "meaning": "大的",
+      "phonetic": "/bɪɡ/",
+      "emoji": "🫳",
+      "unit": "Unit 6 形容词 & 动物"
+    },
+    {
+      "word": "long",
+      "meaning": "长的",
+      "phonetic": "/lɒŋ/",
+      "emoji": "📏",
+      "unit": "Unit 6 形容词 & 动物"
+    },
+    {
+      "word": "short",
+      "meaning": "短的；矮的",
+      "phonetic": "/ʃɔːt/",
+      "emoji": "↕️",
+      "unit": "Unit 6 形容词 & 动物"
+    },
+    {
+      "word": "tall",
+      "meaning": "高的",
+      "phonetic": "/tɔːl/",
+      "emoji": "🦒",
+      "unit": "Unit 6 形容词 & 动物"
+    },
+    {
+      "word": "giraffe",
+      "meaning": "长颈鹿",
+      "phonetic": "/dʒɪˈrɑːf/",
+      "emoji": "🦒",
+      "unit": "Unit 6 形容词 & 动物"
+    },
+    {
+      "word": "deer",
+      "meaning": "鹿",
+      "phonetic": "/dɪə(r)/",
+      "emoji": "🦌",
+      "unit": "Unit 6 形容词 & 动物"
+    }
+  ],
+  "四年级上册": [
+    {
+      "word": "computer",
+      "meaning": "计算机",
+      "phonetic": "/kəmˈpjuːtə(r)/",
+      "emoji": "💻",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "board",
+      "meaning": "写字板",
+      "phonetic": "/bɔːd/",
+      "emoji": "📋",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "fan",
+      "meaning": "风扇",
+      "phonetic": "/fæn/",
+      "emoji": "🌀",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "light",
+      "meaning": "灯",
+      "phonetic": "/laɪt/",
+      "emoji": "💡",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "this",
+      "meaning": "这；这个",
+      "phonetic": "/ðɪs/",
+      "emoji": "👆",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "is",
+      "meaning": "是",
+      "phonetic": "/ɪz/",
+      "emoji": "✅",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "my",
+      "meaning": "我的",
+      "phonetic": "/maɪ/",
+      "emoji": "🙋",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "that",
+      "meaning": "那；那个",
+      "phonetic": "/ðæt/",
+      "emoji": "👇",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "your",
+      "meaning": "你的",
+      "phonetic": "/jɔː(r)/",
+      "emoji": "👉",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "teacher's desk",
+      "meaning": "讲台",
+      "phonetic": "/ˈtiːtʃəz desk/",
+      "emoji": "🏫",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "picture",
+      "meaning": "图画；照片",
+      "phonetic": "/ˈpɪktʃə(r)/",
+      "emoji": "🖼️",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "wall",
+      "meaning": "墙壁",
+      "phonetic": "/wɔːl/",
+      "emoji": "🧱",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "floor",
+      "meaning": "地板",
+      "phonetic": "/flɔː(r)/",
+      "emoji": "🔲",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "yes",
+      "meaning": "是的",
+      "phonetic": "/jes/",
+      "emoji": "✅",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "it",
+      "meaning": "它",
+      "phonetic": "/ɪt/",
+      "emoji": "☝️",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "one",
+      "meaning": "一",
+      "phonetic": "/wʌn/",
+      "emoji": "1️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "two",
+      "meaning": "二",
+      "phonetic": "/tuː/",
+      "emoji": "2️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "three",
+      "meaning": "三",
+      "phonetic": "/θriː/",
+      "emoji": "3️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "four",
+      "meaning": "四",
+      "phonetic": "/fɔː(r)/",
+      "emoji": "4️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "five",
+      "meaning": "五",
+      "phonetic": "/faɪv/",
+      "emoji": "5️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "six",
+      "meaning": "六",
+      "phonetic": "/sɪks/",
+      "emoji": "6️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "seven",
+      "meaning": "七",
+      "phonetic": "/ˈsevən/",
+      "emoji": "7️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "eight",
+      "meaning": "八",
+      "phonetic": "/eɪt/",
+      "emoji": "8️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "nine",
+      "meaning": "九",
+      "phonetic": "/naɪn/",
+      "emoji": "9️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "ten",
+      "meaning": "十",
+      "phonetic": "/ten/",
+      "emoji": "🔟",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "what",
+      "meaning": "什么",
+      "phonetic": "/wɒt/",
+      "emoji": "❓",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "time",
+      "meaning": "时间",
+      "phonetic": "/taɪm/",
+      "emoji": "⏰",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "math",
+      "meaning": "数学",
+      "phonetic": "/mæθ/",
+      "emoji": "📐",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "Chinese",
+      "meaning": "语文",
+      "phonetic": "/ˈtʃaɪˈniːz/",
+      "emoji": "🇨🇳",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "English",
+      "meaning": "英语",
+      "phonetic": "/ˈɪŋɡlɪʃ/",
+      "emoji": "🇬🇧",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "P.E.",
+      "meaning": "体育",
+      "phonetic": "/piː iː/",
+      "emoji": "🏃",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "music",
+      "meaning": "音乐",
+      "phonetic": "/ˈmjuːzɪk/",
+      "emoji": "🎵",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "for",
+      "meaning": "为；给",
+      "phonetic": "/fɔː(r)/",
+      "emoji": "🎁",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "class",
+      "meaning": "课程",
+      "phonetic": "/klɑːs/",
+      "emoji": "📚",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "jacket",
+      "meaning": "夹克衫",
+      "phonetic": "/ˈdʒækɪt/",
+      "emoji": "🧥",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "shirt",
+      "meaning": "衬衫",
+      "phonetic": "/ʃɜːt/",
+      "emoji": "👔",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "skirt",
+      "meaning": "裙子",
+      "phonetic": "/skɜːt/",
+      "emoji": "👗",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "dress",
+      "meaning": "连衣裙",
+      "phonetic": "/dres/",
+      "emoji": "💃",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "T-shirt",
+      "meaning": "T恤衫",
+      "phonetic": "/ˈtiː ʃɜːt/",
+      "emoji": "👕",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "red",
+      "meaning": "红色的",
+      "phonetic": "/red/",
+      "emoji": "🔴",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "blue",
+      "meaning": "蓝色的",
+      "phonetic": "/bluː/",
+      "emoji": "🔵",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "yellow",
+      "meaning": "黄色的",
+      "phonetic": "/ˈjeləʊ/",
+      "emoji": "🟡",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "green",
+      "meaning": "绿色的",
+      "phonetic": "/ɡriːn/",
+      "emoji": "🟢",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "white",
+      "meaning": "白色的",
+      "phonetic": "/waɪt/",
+      "emoji": "⬜",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "no",
+      "meaning": "不",
+      "phonetic": "/nəʊ/",
+      "emoji": "❌",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "not",
+      "meaning": "不是的",
+      "phonetic": "/nɒt/",
+      "emoji": "❌",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "colour",
+      "meaning": "颜色",
+      "phonetic": "/ˈkʌlə(r)/",
+      "emoji": "🎨",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "warm",
+      "meaning": "暖和的",
+      "phonetic": "/wɔːm/",
+      "emoji": "☀️",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "cold",
+      "meaning": "寒冷的",
+      "phonetic": "/kəʊld/",
+      "emoji": "🥶",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "cool",
+      "meaning": "凉爽的",
+      "phonetic": "/kuːl/",
+      "emoji": "😎",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "today",
+      "meaning": "今天",
+      "phonetic": "/təˈdeɪ/",
+      "emoji": "📅",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "jeans",
+      "meaning": "牛仔裤",
+      "phonetic": "/dʒiːnz/",
+      "emoji": "👖",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "pants",
+      "meaning": "长裤",
+      "phonetic": "/pænts/",
+      "emoji": "👖",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "socks",
+      "meaning": "袜子",
+      "phonetic": "/sɒks/",
+      "emoji": "🧦",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "shoes",
+      "meaning": "鞋子",
+      "phonetic": "/ʃuːz/",
+      "emoji": "👟",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "play",
+      "meaning": "玩",
+      "phonetic": "/pleɪ/",
+      "emoji": "🎮",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "football",
+      "meaning": "足球",
+      "phonetic": "/ˈfʊtbɔːl/",
+      "emoji": "⚽",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "snowy",
+      "meaning": "下雪的",
+      "phonetic": "/ˈsnəʊi/",
+      "emoji": "🌨️",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "sunny",
+      "meaning": "晴朗的",
+      "phonetic": "/ˈsʌni/",
+      "emoji": "🌤️",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "how much",
+      "meaning": "多少钱",
+      "phonetic": "/haʊ mʌtʃ/",
+      "emoji": "💰",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "big",
+      "meaning": "大的",
+      "phonetic": "/bɪɡ/",
+      "emoji": "🫳",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "small",
+      "meaning": "小的",
+      "phonetic": "/smɔːl/",
+      "emoji": "🤏",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "long",
+      "meaning": "长的",
+      "phonetic": "/lɒŋ/",
+      "emoji": "📏",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "short",
+      "meaning": "短的",
+      "phonetic": "/ʃɔːt/",
+      "emoji": "↕️",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "apple",
+      "meaning": "苹果",
+      "phonetic": "/ˈæpl/",
+      "emoji": "🍎",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "banana",
+      "meaning": "香蕉",
+      "phonetic": "/bəˈnɑːnə/",
+      "emoji": "🍌",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "pear",
+      "meaning": "梨",
+      "phonetic": "/peə(r)/",
+      "emoji": "🍐",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "orange",
+      "meaning": "橙子",
+      "phonetic": "/ˈɒrɪndʒ/",
+      "emoji": "🟠",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "watermelon",
+      "meaning": "西瓜",
+      "phonetic": "/ˈwɔːtəmelən/",
+      "emoji": "🍉",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "are",
+      "meaning": "是",
+      "phonetic": "/ɑː(r)/",
+      "emoji": "✅",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "they",
+      "meaning": "它们",
+      "phonetic": "/ðeɪ/",
+      "emoji": "👥",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "horse",
+      "meaning": "马",
+      "phonetic": "/hɔːs/",
+      "emoji": "🐴",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "aren't",
+      "meaning": "不是",
+      "phonetic": "/ɑːnt/",
+      "emoji": "❌",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "cat",
+      "meaning": "猫",
+      "phonetic": "/kæt/",
+      "emoji": "🐱",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "rabbit",
+      "meaning": "兔子",
+      "phonetic": "/ˈræbɪt/",
+      "emoji": "🐰",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "pig",
+      "meaning": "猪",
+      "phonetic": "/pɪɡ/",
+      "emoji": "🐷",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "duck",
+      "meaning": "鸭子",
+      "phonetic": "/dʌk/",
+      "emoji": "🦆",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "dog",
+      "meaning": "狗",
+      "phonetic": "/dɒɡ/",
+      "emoji": "🐶",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "eleven",
+      "meaning": "十一",
+      "phonetic": "/ɪˈlevn/",
+      "emoji": "1️⃣1️⃣",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "twelve",
+      "meaning": "十二",
+      "phonetic": "/twelv/",
+      "emoji": "1️⃣2️⃣",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "thirteen",
+      "meaning": "十三",
+      "phonetic": "/ˌθɜːˈtiːn/",
+      "emoji": "1️⃣3️⃣",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "fifteen",
+      "meaning": "十五",
+      "phonetic": "/ˌfɪfˈtiːn/",
+      "emoji": "1️⃣5️⃣",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "twenty",
+      "meaning": "二十",
+      "phonetic": "/ˈtwenti/",
+      "emoji": "2️⃣0️⃣",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "how many",
+      "meaning": "多少",
+      "phonetic": "/haʊ ˈmeni/",
+      "emoji": "🔢",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "there",
+      "meaning": "那里",
+      "phonetic": "/ðeə(r)/",
+      "emoji": "📍",
+      "unit": "Unit 6 动物 & 数字"
+    }
+  ],
+  "四年级下册": [
+    {
+      "word": "computer",
+      "meaning": "计算机",
+      "phonetic": "/kəmˈpjuːtə(r)/",
+      "emoji": "💻",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "board",
+      "meaning": "写字板",
+      "phonetic": "/bɔːd/",
+      "emoji": "📋",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "fan",
+      "meaning": "风扇",
+      "phonetic": "/fæn/",
+      "emoji": "🌀",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "light",
+      "meaning": "灯",
+      "phonetic": "/laɪt/",
+      "emoji": "💡",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "this",
+      "meaning": "这；这个",
+      "phonetic": "/ðɪs/",
+      "emoji": "👆",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "is",
+      "meaning": "是",
+      "phonetic": "/ɪz/",
+      "emoji": "✅",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "my",
+      "meaning": "我的",
+      "phonetic": "/maɪ/",
+      "emoji": "🙋",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "that",
+      "meaning": "那；那个",
+      "phonetic": "/ðæt/",
+      "emoji": "👇",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "your",
+      "meaning": "你的",
+      "phonetic": "/jɔː(r)/",
+      "emoji": "👉",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "teacher's desk",
+      "meaning": "讲台",
+      "phonetic": "/ˈtiːtʃəz desk/",
+      "emoji": "🏫",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "picture",
+      "meaning": "图画；照片",
+      "phonetic": "/ˈpɪktʃə(r)/",
+      "emoji": "🖼️",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "wall",
+      "meaning": "墙壁",
+      "phonetic": "/wɔːl/",
+      "emoji": "🧱",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "floor",
+      "meaning": "地板",
+      "phonetic": "/flɔː(r)/",
+      "emoji": "🔲",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "yes",
+      "meaning": "是的",
+      "phonetic": "/jes/",
+      "emoji": "✅",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "it",
+      "meaning": "它",
+      "phonetic": "/ɪt/",
+      "emoji": "☝️",
+      "unit": "Unit 1 教室"
+    },
+    {
+      "word": "one",
+      "meaning": "一",
+      "phonetic": "/wʌn/",
+      "emoji": "1️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "two",
+      "meaning": "二",
+      "phonetic": "/tuː/",
+      "emoji": "2️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "three",
+      "meaning": "三",
+      "phonetic": "/θriː/",
+      "emoji": "3️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "four",
+      "meaning": "四",
+      "phonetic": "/fɔː(r)/",
+      "emoji": "4️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "five",
+      "meaning": "五",
+      "phonetic": "/faɪv/",
+      "emoji": "5️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "six",
+      "meaning": "六",
+      "phonetic": "/sɪks/",
+      "emoji": "6️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "seven",
+      "meaning": "七",
+      "phonetic": "/ˈsevən/",
+      "emoji": "7️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "eight",
+      "meaning": "八",
+      "phonetic": "/eɪt/",
+      "emoji": "8️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "nine",
+      "meaning": "九",
+      "phonetic": "/naɪn/",
+      "emoji": "9️⃣",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "ten",
+      "meaning": "十",
+      "phonetic": "/ten/",
+      "emoji": "🔟",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "what",
+      "meaning": "什么",
+      "phonetic": "/wɒt/",
+      "emoji": "❓",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "time",
+      "meaning": "时间",
+      "phonetic": "/taɪm/",
+      "emoji": "⏰",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "math",
+      "meaning": "数学",
+      "phonetic": "/mæθ/",
+      "emoji": "📐",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "Chinese",
+      "meaning": "语文",
+      "phonetic": "/ˈtʃaɪˈniːz/",
+      "emoji": "🇨🇳",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "English",
+      "meaning": "英语",
+      "phonetic": "/ˈɪŋɡlɪʃ/",
+      "emoji": "🇬🇧",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "P.E.",
+      "meaning": "体育",
+      "phonetic": "/piː iː/",
+      "emoji": "🏃",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "music",
+      "meaning": "音乐",
+      "phonetic": "/ˈmjuːzɪk/",
+      "emoji": "🎵",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "for",
+      "meaning": "为；给",
+      "phonetic": "/fɔː(r)/",
+      "emoji": "🎁",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "class",
+      "meaning": "课程",
+      "phonetic": "/klɑːs/",
+      "emoji": "📚",
+      "unit": "Unit 2 时间 & 课程"
+    },
+    {
+      "word": "jacket",
+      "meaning": "夹克衫",
+      "phonetic": "/ˈdʒækɪt/",
+      "emoji": "🧥",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "shirt",
+      "meaning": "衬衫",
+      "phonetic": "/ʃɜːt/",
+      "emoji": "👔",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "skirt",
+      "meaning": "裙子",
+      "phonetic": "/skɜːt/",
+      "emoji": "👗",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "dress",
+      "meaning": "连衣裙",
+      "phonetic": "/dres/",
+      "emoji": "💃",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "T-shirt",
+      "meaning": "T恤衫",
+      "phonetic": "/ˈtiː ʃɜːt/",
+      "emoji": "👕",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "red",
+      "meaning": "红色的",
+      "phonetic": "/red/",
+      "emoji": "🔴",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "blue",
+      "meaning": "蓝色的",
+      "phonetic": "/bluː/",
+      "emoji": "🔵",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "yellow",
+      "meaning": "黄色的",
+      "phonetic": "/ˈjeləʊ/",
+      "emoji": "🟡",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "green",
+      "meaning": "绿色的",
+      "phonetic": "/ɡriːn/",
+      "emoji": "🟢",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "white",
+      "meaning": "白色的",
+      "phonetic": "/waɪt/",
+      "emoji": "⬜",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "no",
+      "meaning": "不",
+      "phonetic": "/nəʊ/",
+      "emoji": "❌",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "not",
+      "meaning": "不是的",
+      "phonetic": "/nɒt/",
+      "emoji": "❌",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "colour",
+      "meaning": "颜色",
+      "phonetic": "/ˈkʌlə(r)/",
+      "emoji": "🎨",
+      "unit": "Unit 3 服装 & 颜色"
+    },
+    {
+      "word": "warm",
+      "meaning": "暖和的",
+      "phonetic": "/wɔːm/",
+      "emoji": "☀️",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "cold",
+      "meaning": "寒冷的",
+      "phonetic": "/kəʊld/",
+      "emoji": "🥶",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "cool",
+      "meaning": "凉爽的",
+      "phonetic": "/kuːl/",
+      "emoji": "😎",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "today",
+      "meaning": "今天",
+      "phonetic": "/təˈdeɪ/",
+      "emoji": "📅",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "jeans",
+      "meaning": "牛仔裤",
+      "phonetic": "/dʒiːnz/",
+      "emoji": "👖",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "pants",
+      "meaning": "长裤",
+      "phonetic": "/pænts/",
+      "emoji": "👖",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "socks",
+      "meaning": "袜子",
+      "phonetic": "/sɒks/",
+      "emoji": "🧦",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "shoes",
+      "meaning": "鞋子",
+      "phonetic": "/ʃuːz/",
+      "emoji": "👟",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "play",
+      "meaning": "玩",
+      "phonetic": "/pleɪ/",
+      "emoji": "🎮",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "football",
+      "meaning": "足球",
+      "phonetic": "/ˈfʊtbɔːl/",
+      "emoji": "⚽",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "snowy",
+      "meaning": "下雪的",
+      "phonetic": "/ˈsnəʊi/",
+      "emoji": "🌨️",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "sunny",
+      "meaning": "晴朗的",
+      "phonetic": "/ˈsʌni/",
+      "emoji": "🌤️",
+      "unit": "Unit 4 天气 & 服装"
+    },
+    {
+      "word": "how much",
+      "meaning": "多少钱",
+      "phonetic": "/haʊ mʌtʃ/",
+      "emoji": "💰",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "big",
+      "meaning": "大的",
+      "phonetic": "/bɪɡ/",
+      "emoji": "🫳",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "small",
+      "meaning": "小的",
+      "phonetic": "/smɔːl/",
+      "emoji": "🤏",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "long",
+      "meaning": "长的",
+      "phonetic": "/lɒŋ/",
+      "emoji": "📏",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "short",
+      "meaning": "短的",
+      "phonetic": "/ʃɔːt/",
+      "emoji": "↕️",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "apple",
+      "meaning": "苹果",
+      "phonetic": "/ˈæpl/",
+      "emoji": "🍎",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "banana",
+      "meaning": "香蕉",
+      "phonetic": "/bəˈnɑːnə/",
+      "emoji": "🍌",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "pear",
+      "meaning": "梨",
+      "phonetic": "/peə(r)/",
+      "emoji": "🍐",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "orange",
+      "meaning": "橙子",
+      "phonetic": "/ˈɒrɪndʒ/",
+      "emoji": "🟠",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "watermelon",
+      "meaning": "西瓜",
+      "phonetic": "/ˈwɔːtəmelən/",
+      "emoji": "🍉",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "are",
+      "meaning": "是",
+      "phonetic": "/ɑː(r)/",
+      "emoji": "✅",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "they",
+      "meaning": "它们",
+      "phonetic": "/ðeɪ/",
+      "emoji": "👥",
+      "unit": "Unit 5 购物"
+    },
+    {
+      "word": "horse",
+      "meaning": "马",
+      "phonetic": "/hɔːs/",
+      "emoji": "🐴",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "aren't",
+      "meaning": "不是",
+      "phonetic": "/ɑːnt/",
+      "emoji": "❌",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "cat",
+      "meaning": "猫",
+      "phonetic": "/kæt/",
+      "emoji": "🐱",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "rabbit",
+      "meaning": "兔子",
+      "phonetic": "/ˈræbɪt/",
+      "emoji": "🐰",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "pig",
+      "meaning": "猪",
+      "phonetic": "/pɪɡ/",
+      "emoji": "🐷",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "duck",
+      "meaning": "鸭子",
+      "phonetic": "/dʌk/",
+      "emoji": "🦆",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "dog",
+      "meaning": "狗",
+      "phonetic": "/dɒɡ/",
+      "emoji": "🐶",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "eleven",
+      "meaning": "十一",
+      "phonetic": "/ɪˈlevn/",
+      "emoji": "1️⃣1️⃣",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "twelve",
+      "meaning": "十二",
+      "phonetic": "/twelv/",
+      "emoji": "1️⃣2️⃣",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "thirteen",
+      "meaning": "十三",
+      "phonetic": "/ˌθɜːˈtiːn/",
+      "emoji": "1️⃣3️⃣",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "fifteen",
+      "meaning": "十五",
+      "phonetic": "/ˌfɪfˈtiːn/",
+      "emoji": "1️⃣5️⃣",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "twenty",
+      "meaning": "二十",
+      "phonetic": "/ˈtwenti/",
+      "emoji": "2️⃣0️⃣",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "how many",
+      "meaning": "多少",
+      "phonetic": "/haʊ ˈmeni/",
+      "emoji": "🔢",
+      "unit": "Unit 6 动物 & 数字"
+    },
+    {
+      "word": "there",
+      "meaning": "那里",
+      "phonetic": "/ðeə(r)/",
+      "emoji": "📍",
+      "unit": "Unit 6 动物 & 数字"
+    }
+  ],
+  "五年级上册": [
+    {
+      "word": "old",
+      "meaning": "老的",
+      "phonetic": "/əʊld/",
+      "emoji": "👴",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "young",
+      "meaning": "年轻的",
+      "phonetic": "/jʌŋ/",
+      "emoji": "👶",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "funny",
+      "meaning": "滑稽的",
+      "phonetic": "/ˈfʌni/",
+      "emoji": "😂",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "kind",
+      "meaning": "和蔼的",
+      "phonetic": "/kaɪnd/",
+      "emoji": "🤗",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "strict",
+      "meaning": "严格的",
+      "phonetic": "/strɪkt/",
+      "emoji": "😱",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "polite",
+      "meaning": "有礼貌的",
+      "phonetic": "/pəˈlaɪt/",
+      "emoji": "🙏",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "hard-working",
+      "meaning": "努力的",
+      "phonetic": "/hɑːd ˈwɜːkɪŋ/",
+      "emoji": "💪",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "helpful",
+      "meaning": "有帮助的",
+      "phonetic": "/ˈhelpfl/",
+      "emoji": "🤝",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "clever",
+      "meaning": "聪明的",
+      "phonetic": "/ˈklevə(r)/",
+      "emoji": "🧠",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "shy",
+      "meaning": "害羞的",
+      "phonetic": "/ʃaɪ/",
+      "emoji": "😳",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "know",
+      "meaning": "知道",
+      "phonetic": "/nəʊ/",
+      "emoji": "💡",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "our",
+      "meaning": "我们的",
+      "phonetic": "/aʊə(r)/",
+      "emoji": "👥",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "Ms",
+      "meaning": "女士",
+      "phonetic": "/mɪz/",
+      "emoji": "👩",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "will",
+      "meaning": "将要",
+      "phonetic": "/wɪl/",
+      "emoji": "🔮",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "sometimes",
+      "meaning": "有时",
+      "phonetic": "/ˈsʌmtaɪmz/",
+      "emoji": "🔄",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "robot",
+      "meaning": "机器人",
+      "phonetic": "/ˈrəʊbɒt/",
+      "emoji": "🤖",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "him",
+      "meaning": "他",
+      "phonetic": "/hɪm/",
+      "emoji": "👦",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "speak",
+      "meaning": "会说",
+      "phonetic": "/spiːk/",
+      "emoji": "🗣️",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "finish",
+      "meaning": "完成",
+      "phonetic": "/ˈfɪnɪʃ/",
+      "emoji": "✅",
+      "unit": "Unit 1 人物性格"
+    },
+    {
+      "word": "Monday",
+      "meaning": "星期一",
+      "phonetic": "/ˈmʌndeɪ/",
+      "emoji": "1️⃣",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "Tuesday",
+      "meaning": "星期二",
+      "phonetic": "/ˈtjuːzdeɪ/",
+      "emoji": "2️⃣",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "Wednesday",
+      "meaning": "星期三",
+      "phonetic": "/ˈwenzdeɪ/",
+      "emoji": "3️⃣",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "Thursday",
+      "meaning": "星期四",
+      "phonetic": "/ˈθɜːzdeɪ/",
+      "emoji": "4️⃣",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "Friday",
+      "meaning": "星期五",
+      "phonetic": "/ˈfraɪdeɪ/",
+      "emoji": "5️⃣",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "Saturday",
+      "meaning": "星期六",
+      "phonetic": "/ˈsætədeɪ/",
+      "emoji": "6️⃣",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "Sunday",
+      "meaning": "星期日",
+      "phonetic": "/ˈsʌndeɪ/",
+      "emoji": "7️⃣",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "weekend",
+      "meaning": "周末",
+      "phonetic": "/ˌwiːkˈend/",
+      "emoji": "🎉",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "wash",
+      "meaning": "洗",
+      "phonetic": "/wɒʃ/",
+      "emoji": "🧼",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "wash my clothes",
+      "meaning": "洗衣服",
+      "phonetic": "/wɒʃ maɪ kləʊðz/",
+      "emoji": "🧺",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "watch",
+      "meaning": "看",
+      "phonetic": "/wɒtʃ/",
+      "emoji": "👀",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "watch TV",
+      "meaning": "看电视",
+      "phonetic": "/wɒtʃ tiːviː/",
+      "emoji": "📺",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "read",
+      "meaning": "读",
+      "phonetic": "/riːd/",
+      "emoji": "📖",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "read books",
+      "meaning": "看书",
+      "phonetic": "/riːd bʊks/",
+      "emoji": "📚",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "play",
+      "meaning": "玩",
+      "phonetic": "/pleɪ/",
+      "emoji": "🎮",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "play football",
+      "meaning": "踢足球",
+      "phonetic": "/pleɪ ˈfʊtbɔːl/",
+      "emoji": "⚽",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "cooking",
+      "meaning": "烹饪",
+      "phonetic": "/ˈkʊkɪŋ/",
+      "emoji": "🍳",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "often",
+      "meaning": "常常",
+      "phonetic": "/ˈɒfn/",
+      "emoji": "🔄",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "park",
+      "meaning": "公园",
+      "phonetic": "/pɑːk/",
+      "emoji": "🏞️",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "tired",
+      "meaning": "疲倦的",
+      "phonetic": "/taɪəd/",
+      "emoji": "😴",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "sport",
+      "meaning": "体育运动",
+      "phonetic": "/spɔːt/",
+      "emoji": "🏅",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "play sports",
+      "meaning": "做运动",
+      "phonetic": "/pleɪ spɔːts/",
+      "emoji": "🏃",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "should",
+      "meaning": "应该",
+      "phonetic": "/ʃʊd/",
+      "emoji": "☝️",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "every",
+      "meaning": "每个",
+      "phonetic": "/ˈevri/",
+      "emoji": "🔄",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "day",
+      "meaning": "天",
+      "phonetic": "/deɪ/",
+      "emoji": "📅",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "schedule",
+      "meaning": "日程安排",
+      "phonetic": "/ˈʃedjuːl/",
+      "emoji": "📋",
+      "unit": "Unit 2 星期 & 活动"
+    },
+    {
+      "word": "sandwich",
+      "meaning": "三明治",
+      "phonetic": "/ˈsænwɪtʃ/",
+      "emoji": "🥪",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "salad",
+      "meaning": "沙拉",
+      "phonetic": "/ˈsæləd/",
+      "emoji": "🥗",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "hamburger",
+      "meaning": "汉堡包",
+      "phonetic": "/ˈhæmbɜːɡə(r)/",
+      "emoji": "🍔",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "ice cream",
+      "meaning": "冰淇淋",
+      "phonetic": "/aɪs kriːm/",
+      "emoji": "🍦",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "tea",
+      "meaning": "茶",
+      "phonetic": "/tiː/",
+      "emoji": "🍵",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "fresh",
+      "meaning": "新鲜的",
+      "phonetic": "/freʃ/",
+      "emoji": "🌿",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "healthy",
+      "meaning": "健康的",
+      "phonetic": "/ˈhelθi/",
+      "emoji": "💚",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "delicious",
+      "meaning": "美味的",
+      "phonetic": "/dɪˈlɪʃəs/",
+      "emoji": "😋",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "hot",
+      "meaning": "辣的",
+      "phonetic": "/hɒt/",
+      "emoji": "🌶️",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "sweet",
+      "meaning": "甜的",
+      "phonetic": "/swiːt/",
+      "emoji": "🍬",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "drink",
+      "meaning": "喝",
+      "phonetic": "/drɪŋk/",
+      "emoji": "🥤",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "thirsty",
+      "meaning": "渴的",
+      "phonetic": "/ˈθɜːsti/",
+      "emoji": "🥵",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "favourite",
+      "meaning": "最喜爱的",
+      "phonetic": "/ˈfeɪvərɪt/",
+      "emoji": "⭐",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "food",
+      "meaning": "食物",
+      "phonetic": "/fuːd/",
+      "emoji": "🍽️",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "onion",
+      "meaning": "洋葱",
+      "phonetic": "/ˈʌnjən/",
+      "emoji": "🧅",
+      "unit": "Unit 3 食物"
+    },
+    {
+      "word": "sing",
+      "meaning": "唱歌",
+      "phonetic": "/sɪŋ/",
+      "emoji": "🎤",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "song",
+      "meaning": "歌曲",
+      "phonetic": "/sɒŋ/",
+      "emoji": "🎵",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "Kung fu",
+      "meaning": "功夫",
+      "phonetic": "/kʌŋ fuː/",
+      "emoji": "🥋",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "dance",
+      "meaning": "跳舞",
+      "phonetic": "/dɑːns/",
+      "emoji": "💃",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "draw",
+      "meaning": "画",
+      "phonetic": "/drɔː/",
+      "emoji": "🎨",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "cartoon",
+      "meaning": "漫画",
+      "phonetic": "/kɑːˈtuːn/",
+      "emoji": "🖌️",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "cook",
+      "meaning": "烹饪",
+      "phonetic": "/kʊk/",
+      "emoji": "👨‍🍳",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "swim",
+      "meaning": "游泳",
+      "phonetic": "/swɪm/",
+      "emoji": "🏊",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "play basketball",
+      "meaning": "打篮球",
+      "phonetic": "/pleɪ ˈbɑːskɪtbɔːl/",
+      "emoji": "🏀",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "ping-pong",
+      "meaning": "乒乓球",
+      "phonetic": "/ˈpɪŋ pɒŋ/",
+      "emoji": "🏓",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "speak English",
+      "meaning": "说英语",
+      "phonetic": "/spiːk ˈɪŋɡlɪʃ/",
+      "emoji": "🗣️",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "party",
+      "meaning": "聚会",
+      "phonetic": "/ˈpɑːti/",
+      "emoji": "🎊",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "next",
+      "meaning": "下一个",
+      "phonetic": "/nekst/",
+      "emoji": "👉",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "wonderful",
+      "meaning": "极好的",
+      "phonetic": "/ˈwʌndəfl/",
+      "emoji": "🌟",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "learn",
+      "meaning": "学习",
+      "phonetic": "/lɜːn/",
+      "emoji": "📝",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "any",
+      "meaning": "任何的",
+      "phonetic": "/ˈeni/",
+      "emoji": "❓",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "problem",
+      "meaning": "问题",
+      "phonetic": "/ˈprɒbləm/",
+      "emoji": "❗",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "no problem",
+      "meaning": "没问题",
+      "phonetic": "/nəʊ ˈprɒbləm/",
+      "emoji": "👌",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "want",
+      "meaning": "想要",
+      "phonetic": "/wɒnt/",
+      "emoji": "🙋",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "send",
+      "meaning": "发送",
+      "phonetic": "/send/",
+      "emoji": "📤",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "email",
+      "meaning": "电子邮件",
+      "phonetic": "/ˈiːmeɪl/",
+      "emoji": "📧",
+      "unit": "Unit 4 爱好 & 活动"
+    },
+    {
+      "word": "clock",
+      "meaning": "时钟",
+      "phonetic": "/klɒk/",
+      "emoji": "🕰️",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "plant",
+      "meaning": "植物",
+      "phonetic": "/plɑːnt/",
+      "emoji": "🌱",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "bottle",
+      "meaning": "瓶子",
+      "phonetic": "/ˈbɒtl/",
+      "emoji": "🫗",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "water bottle",
+      "meaning": "水瓶",
+      "phonetic": "/ˈwɔːtə ˈbɒtl/",
+      "emoji": "💧",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "photo",
+      "meaning": "照片",
+      "phonetic": "/ˈfəʊtəʊ/",
+      "emoji": "📷",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "in front of",
+      "meaning": "在…前面",
+      "phonetic": "/ɪn frɒnt ɒv/",
+      "emoji": "⬆️",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "between",
+      "meaning": "在…中间",
+      "phonetic": "/bɪˈtwiːn/",
+      "emoji": "↔️",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "beside",
+      "meaning": "在…旁边",
+      "phonetic": "/bɪˈsaɪd/",
+      "emoji": "⬅️",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "behind",
+      "meaning": "在…后面",
+      "phonetic": "/bɪˈhaɪnd/",
+      "emoji": "⬇️",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "above",
+      "meaning": "在…上面",
+      "phonetic": "/əˈbʌv/",
+      "emoji": "⬆️",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "there",
+      "meaning": "那里",
+      "phonetic": "/ðeə(r)/",
+      "emoji": "📍",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "grandparent",
+      "meaning": "祖父母",
+      "phonetic": "/ˈɡrænpeərənt/",
+      "emoji": "👴",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "their",
+      "meaning": "他们的",
+      "phonetic": "/ðeə(r)/",
+      "emoji": "👥",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "house",
+      "meaning": "房子",
+      "phonetic": "/haʊs/",
+      "emoji": "🏠",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "lots of",
+      "meaning": "许多",
+      "phonetic": "/lɒts ɒv/",
+      "emoji": "✋",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "flower",
+      "meaning": "花",
+      "phonetic": "/ˈflaʊə(r)/",
+      "emoji": "🌸",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "move",
+      "meaning": "搬家",
+      "phonetic": "/muːv/",
+      "emoji": "📦",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "dirty",
+      "meaning": "脏的",
+      "phonetic": "/ˈdɜːti/",
+      "emoji": "🧹",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "everywhere",
+      "meaning": "到处",
+      "phonetic": "/ˈevriweə(r)/",
+      "emoji": "🌍",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "mouse",
+      "meaning": "老鼠",
+      "phonetic": "/maʊs/",
+      "emoji": "🐭",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "live",
+      "meaning": "居住",
+      "phonetic": "/lɪv/",
+      "emoji": "🏠",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "nature",
+      "meaning": "自然",
+      "phonetic": "/ˈneɪtʃə(r)/",
+      "emoji": "🌿",
+      "unit": "Unit 5 家居 & 方位"
+    },
+    {
+      "word": "forest",
+      "meaning": "森林",
+      "phonetic": "/ˈfɒrɪst/",
+      "emoji": "🌲",
+      "unit": "Unit 6 自然景观"
+    },
+    {
+      "word": "river",
+      "meaning": "河流",
+      "phonetic": "/ˈrɪvə(r)/",
+      "emoji": "🏞️",
+      "unit": "Unit 6 自然景观"
+    },
+    {
+      "word": "lake",
+      "meaning": "湖泊",
+      "phonetic": "/leɪk/",
+      "emoji": "🌅",
+      "unit": "Unit 6 自然景观"
+    },
+    {
+      "word": "mountain",
+      "meaning": "高山",
+      "phonetic": "/ˈmaʊntɪn/",
+      "emoji": "⛰️",
+      "unit": "Unit 6 自然景观"
+    },
+    {
+      "word": "hill",
+      "meaning": "小山",
+      "phonetic": "/hɪl/",
+      "emoji": "⛰️",
+      "unit": "Unit 6 自然景观"
+    },
+    {
+      "word": "tree",
+      "meaning": "树",
+      "phonetic": "/triː/",
+      "emoji": "🌳",
+      "unit": "Unit 6 自然景观"
+    },
+    {
+      "word": "bridge",
+      "meaning": "桥",
+      "phonetic": "/brɪdʒ/",
+      "emoji": "🌉",
+      "unit": "Unit 6 自然景观"
+    },
+    {
+      "word": "building",
+      "meaning": "建筑物",
+      "phonetic": "/ˈbɪldɪŋ/",
+      "emoji": "🏢",
+      "unit": "Unit 6 自然景观"
+    },
+    {
+      "word": "village",
+      "meaning": "村庄",
+      "phonetic": "/ˈvɪlɪdʒ/",
+      "emoji": "🏘️",
+      "unit": "Unit 6 自然景观"
+    },
+    {
+      "word": "boating",
+      "meaning": "划船",
+      "phonetic": "/ˈbəʊtɪŋ/",
+      "emoji": "🚣",
+      "unit": "Unit 6 自然景观"
+    },
+    {
+      "word": "go boating",
+      "meaning": "去划船",
+      "phonetic": "/ɡəʊ ˈbəʊtɪŋ/",
+      "emoji": "🚣",
+      "unit": "Unit 6 自然景观"
+    },
+    {
+      "word": "aren't",
+      "meaning": "不是",
+      "phonetic": "/ɑːnt/",
+      "emoji": "❌",
+      "unit": "Unit 6 自然景观"
+    },
+    {
+      "word": "rabbit",
+      "meaning": "兔子",
+      "phonetic": "/ˈræbɪt/",
+      "emoji": "🐰",
+      "unit": "Unit 6 自然景观"
+    },
+    {
+      "word": "high",
+      "meaning": "高的",
+      "phonetic": "/haɪ/",
+      "emoji": "📈",
+      "unit": "Unit 6 自然景观"
+    }
+  ],
+  "五年级下册": [
+    {
+      "word": "eat breakfast",
+      "meaning": "吃早饭",
+      "phonetic": "/iːt ˈbrekfəst/",
+      "emoji": "🥣",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "have…class",
+      "meaning": "上…课",
+      "phonetic": "/hæv klɑːs/",
+      "emoji": "📚",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "play sports",
+      "meaning": "做运动",
+      "phonetic": "/pleɪ spɔːts/",
+      "emoji": "🏃",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "exercise",
+      "meaning": "运动",
+      "phonetic": "/ˈeksəsaɪz/",
+      "emoji": "🤸",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "do morning exercises",
+      "meaning": "做早操",
+      "phonetic": "/duː ˈmɔːnɪŋ ˈeksəsaɪzɪz/",
+      "emoji": "🧘",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "eat dinner",
+      "meaning": "吃晚饭",
+      "phonetic": "/iːt ˈdɪnə(r)/",
+      "emoji": "🍽️",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "clean my room",
+      "meaning": "打扫房间",
+      "phonetic": "/kliːn maɪ ruːm/",
+      "emoji": "🧹",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "go for a walk",
+      "meaning": "散步",
+      "phonetic": "/ɡəʊ fɔːrə wɔːk/",
+      "emoji": "🚶",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "go shopping",
+      "meaning": "购物",
+      "phonetic": "/ɡəʊ ˈʃɒpɪŋ/",
+      "emoji": "🛒",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "take",
+      "meaning": "学习；上(课)",
+      "phonetic": "/teɪk/",
+      "emoji": "✋",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "dancing",
+      "meaning": "跳舞",
+      "phonetic": "/ˈdɑːnsɪŋ/",
+      "emoji": "💃",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "when",
+      "meaning": "什么时候",
+      "phonetic": "/wen/",
+      "emoji": "❓",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "after",
+      "meaning": "在…后",
+      "phonetic": "/ˈaftə(r)/",
+      "emoji": "➡️",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "start",
+      "meaning": "开始",
+      "phonetic": "/stɑːt/",
+      "emoji": "▶️",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "usually",
+      "meaning": "通常",
+      "phonetic": "/ˈjuːʒuəli/",
+      "emoji": "🔄",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "Spain",
+      "meaning": "西班牙",
+      "phonetic": "/speɪn/",
+      "emoji": "🇪🇸",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "late",
+      "meaning": "晚；迟",
+      "phonetic": "/leɪt/",
+      "emoji": "⏰",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "a.m.",
+      "meaning": "上午",
+      "phonetic": "/ˌeɪˈem/",
+      "emoji": "🌅",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "p.m.",
+      "meaning": "下午",
+      "phonetic": "/ˌpiːˈem/",
+      "emoji": "🌙",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "why",
+      "meaning": "为什么",
+      "phonetic": "/waɪ/",
+      "emoji": "❓",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "shop",
+      "meaning": "购物",
+      "phonetic": "/ʃɒp/",
+      "emoji": "🛍️",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "work",
+      "meaning": "工作",
+      "phonetic": "/wɜːk/",
+      "emoji": "💼",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "last",
+      "meaning": "上一个",
+      "phonetic": "/lɑːst/",
+      "emoji": "◀️",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "sound",
+      "meaning": "听起来",
+      "phonetic": "/saʊnd/",
+      "emoji": "🔊",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "also",
+      "meaning": "也",
+      "phonetic": "/ˈɔːlsəʊ/",
+      "emoji": "➕",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "busy",
+      "meaning": "忙的",
+      "phonetic": "/ˈbɪzi/",
+      "emoji": "🏃",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "need",
+      "meaning": "需要",
+      "phonetic": "/niːd/",
+      "emoji": "🙏",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "letter",
+      "meaning": "信",
+      "phonetic": "/ˈletə(r)/",
+      "emoji": "💌",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "live",
+      "meaning": "居住",
+      "phonetic": "/lɪv/",
+      "emoji": "🏠",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "island",
+      "meaning": "岛",
+      "phonetic": "/ˈaɪlənd/",
+      "emoji": "🏝️",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "always",
+      "meaning": "总是",
+      "phonetic": "/ˈɔːlweɪz/",
+      "emoji": "🔄",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "cave",
+      "meaning": "山洞",
+      "phonetic": "/keɪv/",
+      "emoji": "🪨",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "win",
+      "meaning": "获胜",
+      "phonetic": "/wɪn/",
+      "emoji": "🏆",
+      "unit": "Unit 1 日常作息"
+    },
+    {
+      "word": "spring",
+      "meaning": "春天",
+      "phonetic": "/sprɪŋ/",
+      "emoji": "🌸",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "summer",
+      "meaning": "夏天",
+      "phonetic": "/ˈsʌmə(r)/",
+      "emoji": "☀️",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "autumn",
+      "meaning": "秋天",
+      "phonetic": "/ˈɔːtəm/",
+      "emoji": "🍂",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "winter",
+      "meaning": "冬天",
+      "phonetic": "/ˈwɪntə(r)/",
+      "emoji": "❄️",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "season",
+      "meaning": "季节",
+      "phonetic": "/ˈsiːzn/",
+      "emoji": "🔄",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "picnic",
+      "meaning": "野餐",
+      "phonetic": "/ˈpɪknɪk/",
+      "emoji": "🧺",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "go on a picnic",
+      "meaning": "去野餐",
+      "phonetic": "/ɡəʊ ɒn ə ˈpɪknɪk/",
+      "emoji": "🧺",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "pick",
+      "meaning": "摘",
+      "phonetic": "/pɪk/",
+      "emoji": "🤏",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "pick apples",
+      "meaning": "摘苹果",
+      "phonetic": "/pɪk ˈæplz/",
+      "emoji": "🍎",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "snowman",
+      "meaning": "雪人",
+      "phonetic": "/ˈsnəʊmæn/",
+      "emoji": "⛄",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "make a snowman",
+      "meaning": "堆雪人",
+      "phonetic": "/meɪk ə ˈsnəʊmæn/",
+      "emoji": "⛄",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "go swimming",
+      "meaning": "去游泳",
+      "phonetic": "/ɡəʊ ˈswɪmɪŋ/",
+      "emoji": "🏊",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "which",
+      "meaning": "哪一个",
+      "phonetic": "/wɪtʃ/",
+      "emoji": "❓",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "best",
+      "meaning": "最",
+      "phonetic": "/best/",
+      "emoji": "🏆",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "snow",
+      "meaning": "雪",
+      "phonetic": "/snəʊ/",
+      "emoji": "🌨️",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "because",
+      "meaning": "因为",
+      "phonetic": "/bɪˈkɒz/",
+      "emoji": "💡",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "vacation",
+      "meaning": "假期",
+      "phonetic": "/vəˈkeɪʃn/",
+      "emoji": "🏖️",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "lovely",
+      "meaning": "可爱的",
+      "phonetic": "/ˈlʌvli/",
+      "emoji": "💕",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "leaf",
+      "meaning": "叶子",
+      "phonetic": "/liːf/",
+      "emoji": "🍃",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "paint",
+      "meaning": "绘画",
+      "phonetic": "/peɪnt/",
+      "emoji": "🎨",
+      "unit": "Unit 2 季节"
+    },
+    {
+      "word": "January",
+      "meaning": "一月",
+      "phonetic": "/ˈdʒænjuəri/",
+      "emoji": "1️⃣",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "February",
+      "meaning": "二月",
+      "phonetic": "/ˈfebruəri/",
+      "emoji": "2️⃣",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "March",
+      "meaning": "三月",
+      "phonetic": "/mɑːtʃ/",
+      "emoji": "3️⃣",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "April",
+      "meaning": "四月",
+      "phonetic": "/ˈeɪprəl/",
+      "emoji": "4️⃣",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "May",
+      "meaning": "五月",
+      "phonetic": "/meɪ/",
+      "emoji": "5️⃣",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "June",
+      "meaning": "六月",
+      "phonetic": "/dʒuːn/",
+      "emoji": "6️⃣",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "July",
+      "meaning": "七月",
+      "phonetic": "/dʒʊˈlaɪ/",
+      "emoji": "7️⃣",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "August",
+      "meaning": "八月",
+      "phonetic": "/ˈɔːɡəst/",
+      "emoji": "8️⃣",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "September",
+      "meaning": "九月",
+      "phonetic": "/sepˈtembə(r)/",
+      "emoji": "9️⃣",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "October",
+      "meaning": "十月",
+      "phonetic": "/ɒkˈtəʊbə(r)/",
+      "emoji": "🔟",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "November",
+      "meaning": "十一月",
+      "phonetic": "/nəʊˈvembə(r)/",
+      "emoji": "1️⃣1️⃣",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "December",
+      "meaning": "十二月",
+      "phonetic": "/dɪˈsembə(r)/",
+      "emoji": "1️⃣2️⃣",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "few",
+      "meaning": "不多",
+      "phonetic": "/fjuː/",
+      "emoji": "✋",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "thing",
+      "meaning": "事情",
+      "phonetic": "/θɪŋ/",
+      "emoji": "📦",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "sports meet",
+      "meaning": "运动会",
+      "phonetic": "/spɔːts miːt/",
+      "emoji": "🏅",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "Easter",
+      "meaning": "复活节",
+      "phonetic": "/ˈiːstə(r)/",
+      "emoji": "🐣",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "trip",
+      "meaning": "旅行",
+      "phonetic": "/trɪp/",
+      "emoji": "🧳",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "year",
+      "meaning": "年",
+      "phonetic": "/jɪə(r)/",
+      "emoji": "📅",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "contest",
+      "meaning": "比赛",
+      "phonetic": "/ˈkɒntest/",
+      "emoji": "🏆",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "the Great Wall",
+      "meaning": "长城",
+      "phonetic": "/ðə greɪt wɔːl/",
+      "emoji": "🏯",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "National Day",
+      "meaning": "国庆日",
+      "phonetic": "/ˈnæʃənl deɪ/",
+      "emoji": "🇨🇳",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "Thanksgiving",
+      "meaning": "感恩节",
+      "phonetic": "/ˌθæŋksˈgɪvɪŋ/",
+      "emoji": "🦃",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "Christmas",
+      "meaning": "圣诞节",
+      "phonetic": "/ˈkrɪsməs/",
+      "emoji": "🎄",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "holiday",
+      "meaning": "假日",
+      "phonetic": "/ˈhɒlədeɪ/",
+      "emoji": "🎉",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "game",
+      "meaning": "游戏",
+      "phonetic": "/geɪm/",
+      "emoji": "🎮",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "chocolate",
+      "meaning": "巧克力",
+      "phonetic": "/ˈtʃɒklət/",
+      "emoji": "🍫",
+      "unit": "Unit 3 月份 & 节日"
+    },
+    {
+      "word": "first",
+      "meaning": "第一",
+      "phonetic": "/fɜːst/",
+      "emoji": "🥇",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "second",
+      "meaning": "第二",
+      "phonetic": "/ˈsekənd/",
+      "emoji": "🥈",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "third",
+      "meaning": "第三",
+      "phonetic": "/θɜːd/",
+      "emoji": "🥉",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "fourth",
+      "meaning": "第四",
+      "phonetic": "/fɔːθ/",
+      "emoji": "4️⃣",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "fifth",
+      "meaning": "第五",
+      "phonetic": "/fɪfθ/",
+      "emoji": "5️⃣",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "twelfth",
+      "meaning": "第十二",
+      "phonetic": "/twelfθ/",
+      "emoji": "1️⃣2️⃣",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "twentieth",
+      "meaning": "第二十",
+      "phonetic": "/ˈtwentiəθ/",
+      "emoji": "2️⃣0️⃣",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "special",
+      "meaning": "特殊的",
+      "phonetic": "/ˈspeʃl/",
+      "emoji": "⭐",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "fool",
+      "meaning": "蠢人",
+      "phonetic": "/fuːl/",
+      "emoji": "🤡",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "kitten",
+      "meaning": "小猫",
+      "phonetic": "/ˈkɪtn/",
+      "emoji": "🐱",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "diary",
+      "meaning": "日记",
+      "phonetic": "/ˈdaɪəri/",
+      "emoji": "📔",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "still",
+      "meaning": "仍然",
+      "phonetic": "/stɪl/",
+      "emoji": "🔄",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "noise",
+      "meaning": "噪音",
+      "phonetic": "/nɔɪz/",
+      "emoji": "🔊",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "fur",
+      "meaning": "软毛",
+      "phonetic": "/fɜː(r)/",
+      "emoji": "🐱",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "open",
+      "meaning": "开着的",
+      "phonetic": "/ˈəʊpən/",
+      "emoji": "📂",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "walk",
+      "meaning": "行走",
+      "phonetic": "/wɔːk/",
+      "emoji": "🚶",
+      "unit": "Unit 4 序数词 & 日期"
+    },
+    {
+      "word": "mine",
+      "meaning": "我的",
+      "phonetic": "/maɪn/",
+      "emoji": "🙋",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "yours",
+      "meaning": "你的",
+      "phonetic": "/jɔːz/",
+      "emoji": "👉",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "his",
+      "meaning": "他的",
+      "phonetic": "/hɪz/",
+      "emoji": "👦",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "hers",
+      "meaning": "她的",
+      "phonetic": "/hɜːz/",
+      "emoji": "👧",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "theirs",
+      "meaning": "他们的",
+      "phonetic": "/ðeəz/",
+      "emoji": "👥",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "ours",
+      "meaning": "我们的",
+      "phonetic": "/aʊəz/",
+      "emoji": "👥",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "climbing",
+      "meaning": "攀爬",
+      "phonetic": "/ˈklaɪmɪŋ/",
+      "emoji": "🧗",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "eating",
+      "meaning": "吃",
+      "phonetic": "/ˈiːtɪŋ/",
+      "emoji": "🍽️",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "playing",
+      "meaning": "玩耍",
+      "phonetic": "/ˈpleɪɪŋ/",
+      "emoji": "🎮",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "jumping",
+      "meaning": "跳",
+      "phonetic": "/ˈdʒʌmpɪŋ/",
+      "emoji": "🦘",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "drinking",
+      "meaning": "喝",
+      "phonetic": "/ˈdrɪŋkɪŋ/",
+      "emoji": "🥤",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "sleeping",
+      "meaning": "睡觉",
+      "phonetic": "/ˈsliːpɪŋ/",
+      "emoji": "😴",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "each",
+      "meaning": "每一",
+      "phonetic": "/iːtʃ/",
+      "emoji": "☝️",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "other",
+      "meaning": "其他",
+      "phonetic": "/ˈʌðə(r)/",
+      "emoji": "👥",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "excited",
+      "meaning": "兴奋的",
+      "phonetic": "/ɪkˈsaɪtɪd/",
+      "emoji": "🤩",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "like",
+      "meaning": "像",
+      "phonetic": "/laɪk/",
+      "emoji": "❤️",
+      "unit": "Unit 5 物主代词 & 动物动作"
+    },
+    {
+      "word": "doing morning exercises",
+      "meaning": "正在做早操",
+      "phonetic": "/duːɪŋ ˈmɔːnɪŋ ˈeksəsaɪzɪz/",
+      "emoji": "🧘",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "having…class",
+      "meaning": "正在上课",
+      "phonetic": "/ˈhævɪŋ klɑːs/",
+      "emoji": "📚",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "eating lunch",
+      "meaning": "正在吃午饭",
+      "phonetic": "/ˈiːtɪŋ lʌntʃ/",
+      "emoji": "🍱",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "reading a book",
+      "meaning": "正在看书",
+      "phonetic": "/ˈriːdɪŋ ə bʊk/",
+      "emoji": "📖",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "listening to music",
+      "meaning": "正在听音乐",
+      "phonetic": "/ˈlɪsənɪŋ tuː ˈmjuːzɪk/",
+      "emoji": "🎶",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "keep",
+      "meaning": "保持",
+      "phonetic": "/kiːp/",
+      "emoji": "✋",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "keep to the right",
+      "meaning": "靠右",
+      "phonetic": "/kiːp tuː ðə raɪt/",
+      "emoji": "➡️",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "keep your desk clean",
+      "meaning": "保持课桌干净",
+      "phonetic": "/kiːp jɔː desk kliːn/",
+      "emoji": "🧹",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "talk quietly",
+      "meaning": "小声讲话",
+      "phonetic": "/tɔːk ˈkwaɪətli/",
+      "emoji": "🤫",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "turn",
+      "meaning": "顺序",
+      "phonetic": "/tɜːn/",
+      "emoji": "🔄",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "take turns",
+      "meaning": "按顺序来",
+      "phonetic": "/teɪk tɜːnz/",
+      "emoji": "🔄",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "bamboo",
+      "meaning": "竹子",
+      "phonetic": "/bæmˈbuː/",
+      "emoji": "🎋",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "its",
+      "meaning": "它的",
+      "phonetic": "/ɪts/",
+      "emoji": "☝️",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "show",
+      "meaning": "给人看",
+      "phonetic": "/ʃəʊ/",
+      "emoji": "🎭",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "anything",
+      "meaning": "任何事物",
+      "phonetic": "/ˈeniθɪŋ/",
+      "emoji": "❓",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "else",
+      "meaning": "其他",
+      "phonetic": "/els/",
+      "emoji": "➕",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "exhibition",
+      "meaning": "展览",
+      "phonetic": "/ˌeksɪˈbɪʃn/",
+      "emoji": "🖼️",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "say",
+      "meaning": "说",
+      "phonetic": "/seɪ/",
+      "emoji": "🗣️",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "have a look",
+      "meaning": "看一看",
+      "phonetic": "/hæv ə lʊk/",
+      "emoji": "👀",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "sushi",
+      "meaning": "寿司",
+      "phonetic": "/ˈsuːʃi/",
+      "emoji": "🍣",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "teach",
+      "meaning": "教",
+      "phonetic": "/tiːtʃ/",
+      "emoji": "👩‍🏫",
+      "unit": "Unit 6 规则 & 行为"
+    },
+    {
+      "word": "sure",
+      "meaning": "当然",
+      "phonetic": "/ʃʊə(r)/",
+      "emoji": "👌",
+      "unit": "Unit 6 规则 & 行为"
+    }
+  ],
+  "六年级上册": [
+    {
+      "word": "science",
+      "meaning": "科学",
+      "phonetic": "/ˈsaɪəns/",
+      "emoji": "🔬",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "museum",
+      "meaning": "博物馆",
+      "phonetic": "/mjuˈziːəm/",
+      "emoji": "🏛️",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "post office",
+      "meaning": "邮局",
+      "phonetic": "/pəʊst ˈɒfɪs/",
+      "emoji": "📮",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "bookstore",
+      "meaning": "书店",
+      "phonetic": "/ˈbʊkstɔː/",
+      "emoji": "📚",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "cinema",
+      "meaning": "电影院",
+      "phonetic": "/ˈsɪnɪmə/",
+      "emoji": "🎬",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "hospital",
+      "meaning": "医院",
+      "phonetic": "/ˈhɒspɪtl/",
+      "emoji": "🏥",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "crossing",
+      "meaning": "十字路口",
+      "phonetic": "/ˈkrɒsɪŋ/",
+      "emoji": "🚸",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "turn",
+      "meaning": "转弯",
+      "phonetic": "/tɜːn/",
+      "emoji": "🔄",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "left",
+      "meaning": "左",
+      "phonetic": "/left/",
+      "emoji": "⬅️",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "straight",
+      "meaning": "笔直地",
+      "phonetic": "/streɪt/",
+      "emoji": "➡️",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "right",
+      "meaning": "右",
+      "phonetic": "/raɪt/",
+      "emoji": "➡️",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "ask",
+      "meaning": "问",
+      "phonetic": "/ɑːsk/",
+      "emoji": "❓",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "sir",
+      "meaning": "先生",
+      "phonetic": "/sɜː(r)/",
+      "emoji": "🧔",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "interesting",
+      "meaning": "有趣的",
+      "phonetic": "/ˈɪntrɪstɪŋ/",
+      "emoji": "🤩",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "restaurant",
+      "meaning": "餐馆",
+      "phonetic": "/ˈrestrɒnt/",
+      "emoji": "🍽️",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "pizza",
+      "meaning": "比萨饼",
+      "phonetic": "/ˈpiːtsə/",
+      "emoji": "🍕",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "street",
+      "meaning": "街道",
+      "phonetic": "/striːt/",
+      "emoji": "🛣️",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "get",
+      "meaning": "到达",
+      "phonetic": "/get/",
+      "emoji": "📍",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "GPS",
+      "meaning": "定位系统",
+      "phonetic": "/dʒiː piː es/",
+      "emoji": "📍",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "feature",
+      "meaning": "特点",
+      "phonetic": "/ˈfiːtʃə(r)/",
+      "emoji": "✨",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "follow",
+      "meaning": "跟着",
+      "phonetic": "/ˈfɒləʊ/",
+      "emoji": "👣",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "far",
+      "meaning": "远的",
+      "phonetic": "/fɑː(r)/",
+      "emoji": "🛣️",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "tell",
+      "meaning": "告诉",
+      "phonetic": "/tel/",
+      "emoji": "🗣️",
+      "unit": "Unit 1 方位 & 地点"
+    },
+    {
+      "word": "on foot",
+      "meaning": "步行",
+      "phonetic": "/ɒn fʊt/",
+      "emoji": "🚶",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "by",
+      "meaning": "乘",
+      "phonetic": "/baɪ/",
+      "emoji": "🚌",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "bus",
+      "meaning": "公共汽车",
+      "phonetic": "/bʌs/",
+      "emoji": "🚌",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "plane",
+      "meaning": "飞机",
+      "phonetic": "/pleɪn/",
+      "emoji": "🛩️",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "taxi",
+      "meaning": "出租车",
+      "phonetic": "/ˈtæksi/",
+      "emoji": "🚕",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "ship",
+      "meaning": "船",
+      "phonetic": "/ʃɪp/",
+      "emoji": "🚢",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "subway",
+      "meaning": "地铁",
+      "phonetic": "/ˈsʌbweɪ/",
+      "emoji": "🚇",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "train",
+      "meaning": "火车",
+      "phonetic": "/treɪn/",
+      "emoji": "🚂",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "slow",
+      "meaning": "慢的",
+      "phonetic": "/sləʊ/",
+      "emoji": "🐢",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "slow down",
+      "meaning": "慢下来",
+      "phonetic": "/sləʊ daʊn/",
+      "emoji": "🐢",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "stop",
+      "meaning": "停下",
+      "phonetic": "/stɒp/",
+      "emoji": "🛑",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "Mrs",
+      "meaning": "夫人",
+      "phonetic": "/ˈmɪsɪz/",
+      "emoji": "👩",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "early",
+      "meaning": "早到的",
+      "phonetic": "/ˈɜːli/",
+      "emoji": "⏰",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "helmet",
+      "meaning": "头盔",
+      "phonetic": "/ˈhelmɪt/",
+      "emoji": "🪖",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "must",
+      "meaning": "必须",
+      "phonetic": "/mʌst/",
+      "emoji": "❗",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "wear",
+      "meaning": "戴",
+      "phonetic": "/weə(r)/",
+      "emoji": "👕",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "attention",
+      "meaning": "注意",
+      "phonetic": "/əˈtenʃən/",
+      "emoji": "❗",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "traffic",
+      "meaning": "交通",
+      "phonetic": "/ˈtræfɪk/",
+      "emoji": "🚦",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "traffic lights",
+      "meaning": "交通灯",
+      "phonetic": "/ˈtræfɪk laɪts/",
+      "emoji": "🚦",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "sled",
+      "meaning": "雪橇",
+      "phonetic": "/sled/",
+      "emoji": "🛷",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "fast",
+      "meaning": "快的",
+      "phonetic": "/fɑːst/",
+      "emoji": "⚡",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "ferry",
+      "meaning": "轮渡",
+      "phonetic": "/ˈferi/",
+      "emoji": "🚢",
+      "unit": "Unit 2 交通方式"
+    },
+    {
+      "word": "visit",
+      "meaning": "拜访",
+      "phonetic": "/ˈvɪzɪt/",
+      "emoji": "🏠",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "film",
+      "meaning": "电影",
+      "phonetic": "/fɪlm/",
+      "emoji": "🎬",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "see a film",
+      "meaning": "看电影",
+      "phonetic": "/siː ə fɪlm/",
+      "emoji": "🎬",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "trip",
+      "meaning": "旅行",
+      "phonetic": "/trɪp/",
+      "emoji": "🧳",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "take a trip",
+      "meaning": "去旅行",
+      "phonetic": "/teɪk ə trɪp/",
+      "emoji": "🧳",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "supermarket",
+      "meaning": "超市",
+      "phonetic": "/ˈsuːpəmɑːkɪt/",
+      "emoji": "🛒",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "evening",
+      "meaning": "晚上",
+      "phonetic": "/ˈiːvnɪŋ/",
+      "emoji": "🌙",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "tonight",
+      "meaning": "今晚",
+      "phonetic": "/təˈnaɪt/",
+      "emoji": "🌙",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "tomorrow",
+      "meaning": "明天",
+      "phonetic": "/təˈmɒrəʊ/",
+      "emoji": "📅",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "next week",
+      "meaning": "下周",
+      "phonetic": "/nekst wiːk/",
+      "emoji": "📅",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "dictionary",
+      "meaning": "词典",
+      "phonetic": "/ˈdɪkʃənəri/",
+      "emoji": "📖",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "comic book",
+      "meaning": "连环画",
+      "phonetic": "/ˈkɒmɪk bʊk/",
+      "emoji": "📚",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "word",
+      "meaning": "单词",
+      "phonetic": "/wɜːd/",
+      "emoji": "📝",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "word book",
+      "meaning": "单词书",
+      "phonetic": "/wɜːd bʊk/",
+      "emoji": "📖",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "postcard",
+      "meaning": "明信片",
+      "phonetic": "/ˈpəʊstkɑːd/",
+      "emoji": "📬",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "lesson",
+      "meaning": "课",
+      "phonetic": "/ˈlesn/",
+      "emoji": "📚",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "space",
+      "meaning": "太空",
+      "phonetic": "/speɪs/",
+      "emoji": "🚀",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "travel",
+      "meaning": "旅行",
+      "phonetic": "/ˈtrævl/",
+      "emoji": "🧳",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "half",
+      "meaning": "一半",
+      "phonetic": "/hɑːlf/",
+      "emoji": "½️⃣",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "price",
+      "meaning": "价格",
+      "phonetic": "/praɪs/",
+      "emoji": "💰",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "Mid-Autumn Festival",
+      "meaning": "中秋节",
+      "phonetic": "/mɪd ˈɔːtəm ˈfestɪvl/",
+      "emoji": "🥮",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "mooncake",
+      "meaning": "月饼",
+      "phonetic": "/ˈmuːnkeɪk/",
+      "emoji": "🥮",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "moon",
+      "meaning": "月亮",
+      "phonetic": "/muːn/",
+      "emoji": "🌙",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "together",
+      "meaning": "一起",
+      "phonetic": "/təˈɡeðə(r)/",
+      "emoji": "🤝",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "poem",
+      "meaning": "诗",
+      "phonetic": "/ˈpəʊɪm/",
+      "emoji": "📜",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "festival",
+      "meaning": "节日",
+      "phonetic": "/ˈfestɪvl/",
+      "emoji": "🎉",
+      "unit": "Unit 3 计划 & 活动"
+    },
+    {
+      "word": "studies",
+      "meaning": "学习",
+      "phonetic": "/ˈstʌdɪz/",
+      "emoji": "📚",
+      "unit": "Unit 4 爱好 & 笔友"
+    },
+    {
+      "word": "puzzle",
+      "meaning": "谜",
+      "phonetic": "/ˈpʌzl/",
+      "emoji": "🧩",
+      "unit": "Unit 4 爱好 & 笔友"
+    },
+    {
+      "word": "hiking",
+      "meaning": "远足",
+      "phonetic": "/ˈhaɪkɪŋ/",
+      "emoji": "🥾",
+      "unit": "Unit 4 爱好 & 笔友"
+    },
+    {
+      "word": "pen pal",
+      "meaning": "笔友",
+      "phonetic": "/pen pæl/",
+      "emoji": "✉️",
+      "unit": "Unit 4 爱好 & 笔友"
+    },
+    {
+      "word": "hobby",
+      "meaning": "爱好",
+      "phonetic": "/ˈhɒbi/",
+      "emoji": "🎯",
+      "unit": "Unit 4 爱好 & 笔友"
+    },
+    {
+      "word": "jasmine",
+      "meaning": "茉莉",
+      "phonetic": "/ˈdʒæzmɪn/",
+      "emoji": "🌸",
+      "unit": "Unit 4 爱好 & 笔友"
+    },
+    {
+      "word": "idea",
+      "meaning": "想法",
+      "phonetic": "/aɪˈdɪə/",
+      "emoji": "💡",
+      "unit": "Unit 4 爱好 & 笔友"
+    },
+    {
+      "word": "amazing",
+      "meaning": "令人惊奇的",
+      "phonetic": "/əˈmeɪzɪŋ/",
+      "emoji": "🤩",
+      "unit": "Unit 4 爱好 & 笔友"
+    },
+    {
+      "word": "shall",
+      "meaning": "征求意见",
+      "phonetic": "/ʃæl/",
+      "emoji": "❓",
+      "unit": "Unit 4 爱好 & 笔友"
+    },
+    {
+      "word": "goal",
+      "meaning": "射门",
+      "phonetic": "/ɡəʊl/",
+      "emoji": "🥅",
+      "unit": "Unit 4 爱好 & 笔友"
+    },
+    {
+      "word": "join",
+      "meaning": "加入",
+      "phonetic": "/dʒɔɪn/",
+      "emoji": "🤝",
+      "unit": "Unit 4 爱好 & 笔友"
+    },
+    {
+      "word": "club",
+      "meaning": "俱乐部",
+      "phonetic": "/klʌb/",
+      "emoji": "🏆",
+      "unit": "Unit 4 爱好 & 笔友"
+    },
+    {
+      "word": "share",
+      "meaning": "分享",
+      "phonetic": "/ʃeə(r)/",
+      "emoji": "🤝",
+      "unit": "Unit 4 爱好 & 笔友"
+    },
+    {
+      "word": "factory",
+      "meaning": "工厂",
+      "phonetic": "/ˈfæktəri/",
+      "emoji": "🏭",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "worker",
+      "meaning": "工人",
+      "phonetic": "/ˈwɜːkə(r)/",
+      "emoji": "👷",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "postman",
+      "meaning": "邮递员",
+      "phonetic": "/ˈpəʊstmæn/",
+      "emoji": "📮",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "businessman",
+      "meaning": "商人",
+      "phonetic": "/ˈbɪznɪsmæn/",
+      "emoji": "💼",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "police officer",
+      "meaning": "警察",
+      "phonetic": "/pəˈliːs ˈɒfɪsə(r)/",
+      "emoji": "👮",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "fisherman",
+      "meaning": "渔民",
+      "phonetic": "/ˈfɪʃəmæn/",
+      "emoji": "🎣",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "scientist",
+      "meaning": "科学家",
+      "phonetic": "/ˈsaɪəntɪst/",
+      "emoji": "👨‍🔬",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "pilot",
+      "meaning": "飞行员",
+      "phonetic": "/ˈpaɪlət/",
+      "emoji": "🧑‍✈️",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "coach",
+      "meaning": "教练",
+      "phonetic": "/kəʊtʃ/",
+      "emoji": "🏋️",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "country",
+      "meaning": "国家",
+      "phonetic": "/ˈkʌntri/",
+      "emoji": "🌍",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "head teacher",
+      "meaning": "校长",
+      "phonetic": "/hed ˈtiːtʃə(r)/",
+      "emoji": "👩‍🏫",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "sea",
+      "meaning": "大海",
+      "phonetic": "/siː/",
+      "emoji": "🌊",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "university",
+      "meaning": "大学",
+      "phonetic": "/ˌjuːnɪˈvɜːsɪti/",
+      "emoji": "🎓",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "gym",
+      "meaning": "体育馆",
+      "phonetic": "/dʒɪm/",
+      "emoji": "🏋️",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "if",
+      "meaning": "如果",
+      "phonetic": "/ɪf/",
+      "emoji": "❓",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "reporter",
+      "meaning": "记者",
+      "phonetic": "/rɪˈpɔːtə(r)/",
+      "emoji": "📰",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "use",
+      "meaning": "使用",
+      "phonetic": "/juːz/",
+      "emoji": "✋",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "type",
+      "meaning": "打字",
+      "phonetic": "/taɪp/",
+      "emoji": "⌨️",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "quickly",
+      "meaning": "迅速地",
+      "phonetic": "/ˈkwɪkli/",
+      "emoji": "⚡",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "secretary",
+      "meaning": "秘书",
+      "phonetic": "/ˈsekrətri/",
+      "emoji": "📋",
+      "unit": "Unit 5 职业"
+    },
+    {
+      "word": "angry",
+      "meaning": "生气",
+      "phonetic": "/ˈæŋɡri/",
+      "emoji": "😡",
+      "unit": "Unit 6 情绪"
+    },
+    {
+      "word": "afraid",
+      "meaning": "害怕",
+      "phonetic": "/əˈfreɪd/",
+      "emoji": "😨",
+      "unit": "Unit 6 情绪"
+    },
+    {
+      "word": "sad",
+      "meaning": "难过的",
+      "phonetic": "/sæd/",
+      "emoji": "😢",
+      "unit": "Unit 6 情绪"
+    },
+    {
+      "word": "worried",
+      "meaning": "担心的",
+      "phonetic": "/ˈwʌrɪd/",
+      "emoji": "😟",
+      "unit": "Unit 6 情绪"
+    },
+    {
+      "word": "happy",
+      "meaning": "高兴的",
+      "phonetic": "/ˈhæpi/",
+      "emoji": "😊",
+      "unit": "Unit 6 情绪"
+    },
+    {
+      "word": "see a doctor",
+      "meaning": "看病",
+      "phonetic": "/siː ə ˈdɒktə(r)/",
+      "emoji": "👨‍⚕️",
+      "unit": "Unit 6 情绪"
+    },
+    {
+      "word": "more",
+      "meaning": "更多的",
+      "phonetic": "/mɔː(r)/",
+      "emoji": "➕",
+      "unit": "Unit 6 情绪"
+    },
+    {
+      "word": "deep",
+      "meaning": "深的",
+      "phonetic": "/diːp/",
+      "emoji": "🌊",
+      "unit": "Unit 6 情绪"
+    }
+  ],
+  "六年级下册": [
+    {
+      "word": "younger",
+      "meaning": "更年轻的",
+      "phonetic": "/ˈjʌŋɡə(r)/",
+      "emoji": "👶",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "older",
+      "meaning": "更老的",
+      "phonetic": "/ˈəʊldə(r)/",
+      "emoji": "👴",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "taller",
+      "meaning": "更高的",
+      "phonetic": "/ˈtɔːlə(r)/",
+      "emoji": "📏",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "shorter",
+      "meaning": "更矮的",
+      "phonetic": "/ˈʃɔːtə(r)/",
+      "emoji": "↕️",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "longer",
+      "meaning": "更长的",
+      "phonetic": "/ˈlɒŋɡə(r)/",
+      "emoji": "📏",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "thinner",
+      "meaning": "更瘦的",
+      "phonetic": "/ˈθɪnə(r)/",
+      "emoji": "🧏",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "heavier",
+      "meaning": "更重的",
+      "phonetic": "/ˈhevɪə(r)/",
+      "emoji": "🏋️",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "bigger",
+      "meaning": "更大的",
+      "phonetic": "/ˈbɪɡə(r)/",
+      "emoji": "🫳",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "smaller",
+      "meaning": "更小的",
+      "phonetic": "/ˈsmɔːlə(r)/",
+      "emoji": "🤏",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "stronger",
+      "meaning": "更强壮的",
+      "phonetic": "/ˈstrɒŋɡə(r)/",
+      "emoji": "💪",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "dinosaur",
+      "meaning": "恐龙",
+      "phonetic": "/ˈdaɪnəsɔː(r)/",
+      "emoji": "🦕",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "hall",
+      "meaning": "大厅",
+      "phonetic": "/hɔːl/",
+      "emoji": "🏛️",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "meter",
+      "meaning": "米",
+      "phonetic": "/ˈmiːtə(r)/",
+      "emoji": "📏",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "than",
+      "meaning": "与…相比",
+      "phonetic": "/ðæn/",
+      "emoji": "⟷",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "both",
+      "meaning": "两个都",
+      "phonetic": "/bəʊθ/",
+      "emoji": "✅",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "kilogram",
+      "meaning": "千克",
+      "phonetic": "/ˈkɪləɡræm/",
+      "emoji": "⚖️",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "countryside",
+      "meaning": "乡村",
+      "phonetic": "/ˈkʌntrɪsaɪd/",
+      "emoji": "🌾",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "shadow",
+      "meaning": "阴影",
+      "phonetic": "/ˈʃædəʊ/",
+      "emoji": "👤",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "smarter",
+      "meaning": "更聪明的",
+      "phonetic": "/ˈsmɑːtə(r)/",
+      "emoji": "🧠",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "become",
+      "meaning": "变得",
+      "phonetic": "/bɪˈkʌm/",
+      "emoji": "🔄",
+      "unit": "Unit 1 比较级"
+    },
+    {
+      "word": "cleaned",
+      "meaning": "打扫了",
+      "phonetic": "/kliːnd/",
+      "emoji": "🧹",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "stayed",
+      "meaning": "停留了",
+      "phonetic": "/steɪd/",
+      "emoji": "🏠",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "washed",
+      "meaning": "洗了",
+      "phonetic": "/wɒʃt/",
+      "emoji": "🧼",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "watched",
+      "meaning": "看了",
+      "phonetic": "/wɒtʃt/",
+      "emoji": "📺",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "had a cold",
+      "meaning": "感冒了",
+      "phonetic": "/hæd ə kəʊld/",
+      "emoji": "🤧",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "slept",
+      "meaning": "睡了",
+      "phonetic": "/slept/",
+      "emoji": "😴",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "saw",
+      "meaning": "看见了",
+      "phonetic": "/sɔː/",
+      "emoji": "👀",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "last",
+      "meaning": "上一个",
+      "phonetic": "/lɑːst/",
+      "emoji": "◀️",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "yesterday",
+      "meaning": "昨天",
+      "phonetic": "/ˈjestədeɪ/",
+      "emoji": "📅",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "before",
+      "meaning": "在…之前",
+      "phonetic": "/bɪˈfɔː(r)/",
+      "emoji": "⏪",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "drank",
+      "meaning": "喝了",
+      "phonetic": "/dræŋk/",
+      "emoji": "🥤",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "magazine",
+      "meaning": "杂志",
+      "phonetic": "/ˌmæɡəˈziːn/",
+      "emoji": "📖",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "better",
+      "meaning": "更好的",
+      "phonetic": "/ˈbetə(r)/",
+      "emoji": "👍",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "faster",
+      "meaning": "更快的",
+      "phonetic": "/ˈfɑːstə(r)/",
+      "emoji": "⚡",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "hotel",
+      "meaning": "旅馆",
+      "phonetic": "/həʊˈtel/",
+      "emoji": "🏨",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "fixed",
+      "meaning": "修理了",
+      "phonetic": "/fɪkst/",
+      "emoji": "🔧",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "broken",
+      "meaning": "破损的",
+      "phonetic": "/ˈbrəʊkən/",
+      "emoji": "💔",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "lamp",
+      "meaning": "台灯",
+      "phonetic": "/læmp/",
+      "emoji": "💡",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "loud",
+      "meaning": "喧闹的",
+      "phonetic": "/laʊd/",
+      "emoji": "🔊",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "enjoy",
+      "meaning": "喜爱",
+      "phonetic": "/ɪnˈdʒɔɪ/",
+      "emoji": "😊",
+      "unit": "Unit 2 过去式"
+    },
+    {
+      "word": "went",
+      "meaning": "去了",
+      "phonetic": "/went/",
+      "emoji": "🚶",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "camp",
+      "meaning": "野营",
+      "phonetic": "/kæmp/",
+      "emoji": "⛺",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "went camping",
+      "meaning": "去野营了",
+      "phonetic": "/went ˈkæmpɪŋ/",
+      "emoji": "⛺",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "went fishing",
+      "meaning": "去钓鱼了",
+      "phonetic": "/went ˈfɪʃɪŋ/",
+      "emoji": "🎣",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "rode",
+      "meaning": "骑了",
+      "phonetic": "/rəʊd/",
+      "emoji": "🚲",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "hurt",
+      "meaning": "受伤",
+      "phonetic": "/hɜːt/",
+      "emoji": "🤕",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "ate",
+      "meaning": "吃了",
+      "phonetic": "/eɪt/",
+      "emoji": "🍽️",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "took",
+      "meaning": "拍了",
+      "phonetic": "/tʊk/",
+      "emoji": "📷",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "took pictures",
+      "meaning": "照相了",
+      "phonetic": "/tʊk ˈpɪktʃəz/",
+      "emoji": "📸",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "bought",
+      "meaning": "买了",
+      "phonetic": "/bɔːt/",
+      "emoji": "🛒",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "gift",
+      "meaning": "礼物",
+      "phonetic": "/ɡɪft/",
+      "emoji": "🎁",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "fell",
+      "meaning": "摔倒了",
+      "phonetic": "/fel/",
+      "emoji": "🤕",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "Labour Day",
+      "meaning": "劳动节",
+      "phonetic": "/ˈleɪbə deɪ/",
+      "emoji": "👷",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "beach",
+      "meaning": "海滩",
+      "phonetic": "/biːtʃ/",
+      "emoji": "🏖️",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "basket",
+      "meaning": "篮子",
+      "phonetic": "/ˈbɑːskɪt/",
+      "emoji": "🧺",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "laughed",
+      "meaning": "笑了",
+      "phonetic": "/lɑːft/",
+      "emoji": "😂",
+      "unit": "Unit 3 过去活动"
+    },
+    {
+      "word": "dining hall",
+      "meaning": "饭厅",
+      "phonetic": "/ˈdaɪnɪŋ hɔːl/",
+      "emoji": "🍽️",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "grass",
+      "meaning": "草地",
+      "phonetic": "/ɡrɑːs/",
+      "emoji": "🌿",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "ago",
+      "meaning": "以前",
+      "phonetic": "/əˈɡəʊ/",
+      "emoji": "⏪",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "cycling",
+      "meaning": "骑自行车",
+      "phonetic": "/ˈsaɪklɪŋ/",
+      "emoji": "🚲",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "go cycling",
+      "meaning": "去骑自行车",
+      "phonetic": "/ɡəʊ ˈsaɪklɪŋ/",
+      "emoji": "🚲",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "ice-skate",
+      "meaning": "滑冰",
+      "phonetic": "/aɪs skeɪt/",
+      "emoji": "⛸️",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "badminton",
+      "meaning": "羽毛球",
+      "phonetic": "/ˈbædmɪntən/",
+      "emoji": "🏸",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "star",
+      "meaning": "星",
+      "phonetic": "/stɑː(r)/",
+      "emoji": "⭐",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "easy",
+      "meaning": "容易的",
+      "phonetic": "/ˈiːzi/",
+      "emoji": "👌",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "look up",
+      "meaning": "查阅",
+      "phonetic": "/lʊk ʌp/",
+      "emoji": "🔍",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "Internet",
+      "meaning": "互联网",
+      "phonetic": "/ˈɪntənet/",
+      "emoji": "🌐",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "different",
+      "meaning": "不同的",
+      "phonetic": "/ˈdɪfrənt/",
+      "emoji": "≠️",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "active",
+      "meaning": "积极的",
+      "phonetic": "/ˈæktɪv/",
+      "emoji": "🏃",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "race",
+      "meaning": "赛跑",
+      "phonetic": "/reɪs/",
+      "emoji": "🏅",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "nothing",
+      "meaning": "没什么",
+      "phonetic": "/ˈnʌθɪŋ/",
+      "emoji": "❌",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "thought",
+      "meaning": "想了",
+      "phonetic": "/θɔːt/",
+      "emoji": "💭",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "felt",
+      "meaning": "感觉了",
+      "phonetic": "/felt/",
+      "emoji": "💫",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "cheetah",
+      "meaning": "猎豹",
+      "phonetic": "/ˈtʃiːtə/",
+      "emoji": "🐆",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "woke",
+      "meaning": "醒了",
+      "phonetic": "/wəʊk/",
+      "emoji": "⏰",
+      "unit": "Unit 4 过去 & 变化"
+    },
+    {
+      "word": "dream",
+      "meaning": "梦",
+      "phonetic": "/driːm/",
+      "emoji": "💭",
+      "unit": "Unit 4 过去 & 变化"
+    }
+  ]
+}
