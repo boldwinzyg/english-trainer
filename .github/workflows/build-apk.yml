@@ -5,7 +5,7 @@ on:
     branches: [ main, master ]
   pull_request:
     branches: [ main, master ]
-  workflow_dispatch:   # 支持手动触发
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
       with:
         python-version: '3.10'
 
-    - name: Install dependencies
+    - name: Install system dependencies
       run: |
         sudo apt-get update
         sudo apt-get install -y \
@@ -48,10 +48,19 @@ jobs:
         pip3 install --upgrade pip
         pip3 install buildozer cython==0.29.37 kivy==2.3.1
 
+    - name: Set up Android SDK (includes aidl)
+      uses: android-actions/setup-android-sdk@v3
+      with:
+        api-level: 33
+        build-tools: 33.0.2
+
     - name: Build APK
       run: |
-        # 修改 buildozer.spec 适配 CI
+        # 设置 warn_on_root=0 避免 root 权限警告
         sed -i 's/warn_on_root = 1/warn_on_root = 0/' buildozer.spec
+        # 设置 Android SDK 路径（使用 setup-android-sdk 安装的路径）
+        export ANDROID_SDK_ROOT=$HOME/android-sdk
+        export ANDROID_HOME=$ANDROID_SDK_ROOT
         buildozer -v android debug
 
     - name: Upload APK artifact
