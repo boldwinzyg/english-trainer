@@ -1,0 +1,40 @@
+# Kivy runtime caches
+.kivy/
+studyapp/.kivy/
+
+# Build outputs
+.buildozer/
+bin/
+*.apk
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Temp files
+*.log
+*.tmp
+temp/
+
+# User runtime data (keep structure, ignore content)
+user_data/
+studyapp/user_data/
+
+# Root data folder (duplicated from studyapp/data)
+data/
+
+# Archive
+*.zip
